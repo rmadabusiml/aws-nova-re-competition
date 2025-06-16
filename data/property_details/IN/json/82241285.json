@@ -1,0 +1,211 @@
+{
+    "property": {
+      "address": "5543 N Pennsylvania St N, Indianapolis, IN 46220",
+      "price": 675900,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "square_footage": 3389,
+      "year_built": 1954,
+      "stories": 2,
+      "lot_size_sqft": 7362,
+      "lot_size_acres": 0.17,
+      "garage_spaces": 2,
+      "parking": {
+        "type": "Attached Garage",
+        "total_spaces": 2,
+        "covered_spaces": 2
+      },
+      "floors": ["Hardwood", "Carpet", "Vinyl"],
+      "floor_details": {
+        "main_level_bedrooms": 0,
+        "main_level_bathrooms": 0,
+        "main_level_kitchen": true,
+        "main_level_primary_bedroom": false
+      },
+      "kitchen": {
+        "features": [
+          "Hardwood Floors",
+          "Pantry",
+          "Window Bay Bow",
+          "Vinyl Windows"
+        ],
+        "appliances": [
+          "Electric Cooktop",
+          "Dishwasher",
+          "Dryer",
+          "Disposal",
+          "Microwave",
+          "Electric Oven",
+          "Refrigerator",
+          "Washer",
+          "Water Heater",
+          "Water Purifier"
+        ]
+      },
+      "primary_bathroom": {
+        "features": [
+          "Tub Full with Shower"
+        ]
+      },
+      "primary_bedroom": {
+        "features": []
+      },
+      "laundry": {
+        "features": [
+          "Laundry Room",
+          "In Basement"
+        ]
+      },
+      "interior_features": [
+        "Attic Access",
+        "Hardwood Floors",
+        "Window Bay Bow",
+        "Vinyl Windows",
+        "Family Room",
+        "Bonus Room",
+        "Multi-level Living Areas",
+        "Fireplace",
+        "Gas Log Fireplace",
+        "Storage Closet"
+      ],
+      "exterior": {
+        "construction": ["Brick"],
+        "roof": "Unknown",
+        "builder": "",
+        "features": [
+          "City Lot",
+          "Sidewalks",
+          "Suburb",
+          "Mature Trees"
+        ],
+        "patio": ["Deck", "Open Patio", "Porch Open"],
+        "fencing": [],
+        "security": [],
+        "foundation": "Block"
+      },
+      "yard": {
+        "features": [
+          "Expansive Lot",
+          "Private Oasis",
+          "Low-maintenance Gardens"
+        ]
+      },
+      "community": {
+        "name": "Meridian Hills, Jose Balz Delaware",
+        "features": [],
+        "pool": ""
+      },
+      "hoa": {
+        "has_hoa": false,
+        "name": "",
+        "fee": 0,
+        "fee_frequency": "",
+        "includes": []
+      },
+      "utilities": {
+        "electricity": "Electricity Provided by Wattbuy",
+        "natural_gas": "",
+        "sewer": "Municipal Sewer Connected",
+        "water": "Municipal/City",
+        "heating": "Forced Air",
+        "cooling": ""
+      },
+      "direction_faces": "",
+      "apn": "490612137002000801",
+      "images": {
+        "exterior": [
+          "https://ssl.cdn-redfin.com/photo/147/bigphoto/318/22041318_0.jpg"
+        ],
+        "interior": [
+          "https://ssl.cdn-redfin.com/photo/147/mbphotov3/318/genMid.22041318_12_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/147/mbphotov3/318/genMid.22041318_38_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/147/mbphotov3/318/genMid.22041318_20_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/147/mbphotov3/318/genMid.22041318_30_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/147/mbphotov3/318/genMid.22041318_7_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/147/mbphotov3/318/genMid.22041318_25_0.jpg"
+        ]
+      }
+    },
+    "description": "Nestled at 5543 N Pennsylvania in Meridian Hills, Jose Balz Delaware neighborhood, this single-family residence presents an opportunity to embrace a comfortable lifestyle within its well-established setting. The heart of this residence lies in its generous multi level living areas, offering plenty of space to create an environment tailored to your personal style. Two bedrooms plus office in first upper level provide private spaces to make your own. A bonus, third bedroom in top level with half bath and multiple large closet storage. Home has 2 car attached garage plus basement, family room with extra room, laundry room and storage closet. The expansive lot invites you to extend your living space outdoors, envisioning gatherings and enjoying the tranquility of your own private oasis. Built in 1954, the simplicity and charm of mid-century design allows you to appreciate a timeless aesthetic.",
+    "neighborhood": {
+      "schools": [
+        {
+          "name": "Center for Inquiry School 84",
+          "type": "Public",
+          "grades": "K-8",
+          "distance_mi": 0.3,
+          "rating": 8
+        },
+        {
+          "name": "Rousseau McClellan School 91",
+          "type": "Public",
+          "grades": "PreK-8",
+          "distance_mi": 1.6,
+          "rating": 5
+        },
+        {
+          "name": "James Whitcomb Riley School 43",
+          "type": "Public",
+          "grades": "PreK-8",
+          "distance_mi": 1.7,
+          "rating": 3
+        },
+        {
+          "name": "IPS/Butler University Laboratory School 60",
+          "type": "Public",
+          "grades": "PreK-8",
+          "distance_mi": 2.6,
+          "rating": 4
+        },
+        {
+          "name": "Shortridge High School",
+          "type": "Public",
+          "grades": "9-12",
+          "distance_mi": 2.5,
+          "rating": 2
+        }
+      ],
+      "school_district": "Indianapolis Public Schools",
+      "retail_access": "Near city amenities, Eagle Creek Park, marina/boatyard.",
+      "walk_score": 66,
+      "bike_score": 57
+    },
+    "sale_and_tax_history": {
+      "sale_history": [
+        {
+          "date": "2025-05-30",
+          "event": "Listed (Active)",
+          "price": 675900,
+          "mls": "22041318"
+        }
+      ],
+      "tax_history": []
+    },
+    "climate": {
+      "flood_factor": {
+        "risk": "Minimal",
+        "notes": "Unlikely to flood in next 30 years"
+      },
+      "fire_factor": {
+        "risk": "Minimal",
+        "probability": "Unlikely to be in a wildfire in next 30 years"
+      },
+      "heat_factor": {
+        "risk": "Moderate",
+        "current_days_above_109": 7,
+        "future_days_above_109": 18,
+        "future_years": 30
+      },
+      "wind_factor": {
+        "risk": "Minor",
+        "probability": "1% chance of strong winds in next 30 years"
+      },
+      "air_factor": {
+        "risk": "Moderate",
+        "unhealthy_days_current": 3,
+        "unhealthy_days_future": 5,
+        "future_years": 30
+      }
+    }
+  }
+  

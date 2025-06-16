@@ -1,0 +1,30 @@
+{
+	"Version": "2012-10-17",
+	"Statement": [
+		{
+			"Sid": "BedrockInvokePermissions",
+			"Effect": "Allow",
+			"Action": [
+				"bedrock:InvokeModel",
+				"bedrock:InvokeModelWithResponseStream"
+			],
+			"Resource": [
+				"arn:aws:bedrock:us-east-1:571166455241:inference-profile/us.amazon.nova-pro-v1:0",
+				"arn:aws:bedrock:us-east-1::foundation-model/amazon.nova-pro-v1:0"
+			]
+		},
+		{
+			"Sid": "BedrockKnowledgeBaseAccess",
+			"Effect": "Allow",
+			"Action": [
+				"bedrock:Retrieve",
+				"bedrock:RetrieveAndGenerate",
+				"bedrock:ApplyGuardrail"
+			],
+			"Resource": [
+				"arn:aws:bedrock:us-east-1:571166455241:knowledge-base/IBTJXPOYRN",
+				"arn:aws:bedrock:us-east-1:571166455241:guardrail/3pt5fpo4foxt"
+			]
+		}
+	]
+}

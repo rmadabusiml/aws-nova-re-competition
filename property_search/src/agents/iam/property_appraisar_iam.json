@@ -1,0 +1,33 @@
+{
+	"Version": "2012-10-17",
+	"Statement": [
+		{
+			"Effect": "Allow",
+			"Action": [
+				"bedrock:InvokeModel",
+				"bedrock:InvokeModelWithResponseStream"
+			],
+			"Resource": [
+				"arn:aws:bedrock:us-east-1::foundation-model/amazon.nova-*"
+			]
+		},
+		{
+			"Effect": "Allow",
+			"Action": [
+				"s3:List*"
+			],
+			"Resource": [
+				"arn:aws:s3:::handsonllms-raghu"
+			]
+		},
+		{
+			"Effect": "Allow",
+			"Action": [
+				"s3:GetObject"
+			],
+			"Resource": [
+				"arn:aws:s3:::handsonllms-raghu/real_estate/inspection_reports/*"
+			]
+		}
+	]
+}

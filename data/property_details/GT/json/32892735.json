@@ -1,0 +1,221 @@
+{
+  "property": {
+    "address": "133 Ridgewood Cv, Georgetown, TX 78633",
+    "price": 733000,
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "square_footage": 2699,
+    "year_built": 2000,
+    "stories": 2,
+    "lot_size_sqft": 43560,
+    "lot_size_acres": 1,
+    "garage_spaces": 2,
+    "parking": {
+      "type": "Additional Parking, Driveway, Garage Faces Front, Garage, Garage Door Opener",
+      "total_spaces": 4,
+      "covered_spaces": 2
+    },
+    "floors": ["Carpet", "Tile", "Vinyl"],
+    "floor_details": {
+      "main_level_bedrooms": 1,
+      "main_level_bathrooms": 1,
+      "main_level_kitchen": true,
+      "main_level_primary_bedroom": true
+    },
+    "kitchen": {
+      "features": [
+        "Pantry"
+      ],
+      "appliances": [
+        "Dishwasher",
+        "Free-Standing Gas Range",
+        "Gas Range",
+        "Range Hood",
+        "Stainless Steel Appliance(s)"
+      ]
+    },
+    "primary_bathroom": {
+      "features": [
+        "Double Vanity",
+        "Garden Tub/Roman Tub",
+        "Separate Shower",
+        "Walk-In Closet(s)"
+      ]
+    },
+    "primary_bedroom": {
+      "features": [
+        "Ceiling Fan(s)"
+      ]
+    },
+    "laundry": {
+      "features": [
+        "Laundry Room"
+      ]
+    },
+    "interior_features": [
+      "Beamed Ceilings",
+      "Ceiling Fan(s)",
+      "Double Vanity",
+      "High Ceilings",
+      "Interior Steps",
+      "Multiple Living Areas",
+      "Main Level Primary",
+      "Pantry",
+      "Soaking Tub",
+      "Walk-In Closet(s)",
+      "Fireplace",
+      "Living Room",
+      "Wood Burning"
+    ],
+    "exterior": {
+      "construction": ["Brick Veneer", "HardiPlank Type", "Masonry"],
+      "roof": "Asphalt, Shingle",
+      "builder": "",
+      "features": [
+        "Exterior Steps",
+        "Private Yard",
+        "Rain Gutters"
+      ],
+      "patio": [
+        "Awning(s)",
+        "Deck"
+      ],
+      "fencing": [
+        "Back Yard",
+        "Wood",
+        "Wrought Iron"
+      ],
+      "security": [
+        "Smoke Detector(s)"
+      ],
+      "foundation": "Slab"
+    },
+    "yard": {
+      "features": [
+        "Back Yard",
+        "Cul-De-Sac",
+        "Front Yard",
+        "Landscaped",
+        "Many Trees",
+        "Trees Large Size",
+        "Trees Medium Size",
+        "Greenhouse",
+        "Shed(s)"
+      ]
+    },
+    "community": {
+      "name": "North Lake/ Ridgewood Estates",
+      "features": [],
+      "pool": "Private"
+    },
+    "hoa": {
+      "has_hoa": true,
+      "name": "North Lake Land Owners Association",
+      "fee": 35,
+      "fee_frequency": "Annually",
+      "includes": []
+    },
+    "utilities": {
+      "electricity": "Cable Available, Cable Connected, Electricity Connected",
+      "natural_gas": "Propane",
+      "sewer": "Septic Tank",
+      "water": "Public",
+      "heating": "Central, Forced Air, Heat Pump",
+      "cooling": "Central Air"
+    },
+    "direction_faces": "Northeast",
+    "apn": "R358631",
+    "images": {
+      "exterior": [
+        "https://ssl.cdn-redfin.com/photo/92/bigphoto/626/6981626_5.jpg"
+      ],
+      "interior": [
+        "https://ssl.cdn-redfin.com/photo/92/mbphotov3/626/genMid.6981626_10_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/mbphotov3/626/genMid.6981626_30_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/mbphotov3/626/genMid.6981626_16_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/mbphotov3/626/genMid.6981626_24_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/mbphotov3/626/genMid.6981626_6_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/mbphotov3/626/genMid.6981626_20_5.jpg"
+      ]
+    }
+  },
+  "description": "If you are seeking peace and tranquility deep in the heart of Texas, welcome HOME! Nestled on a serene 1-acre lot tucked into a quiet cul-de-sac in the sought-after North Lake/ Ridgewood Estates neighborhood, this exquisite 3 bedroom, 2.5 bath home offers 2,699 square feet of thoughtfully designed living space. Inside, you will find the primary bedroom and bath conveniently located on the main level, with three separate and distinct living areas spread across both levels for privacy and enjoyment. The serenity effortlessly spills out across the large awning-covered back deck to the gorgeous pool and hot tub nestled in the trees just beyond. Listen to the soothing cascading water features while soaking in lighting colors that reflect your mood, or your choice of one of 6 light shows with the mesmerizing Jandy lights! Stroll around the fully fenced back yard among the trees and birds, and make great use of the greenhouse and shed with concrete pad. Of course, you can always sit in your favorite place on the expansive deck and survey your empire sheltered under the cover of the 35-foot electric awning.",
+  "neighborhood": {
+    "schools": [
+      {
+        "name": "Jo Ann Ford Elementary School",
+        "type": "Public",
+        "grades": "PreK-5",
+        "distance_mi": 3.3,
+        "rating": 7
+      },
+      {
+        "name": "Douglas Benold Middle School",
+        "type": "Public",
+        "grades": "6-8",
+        "distance_mi": 5.9,
+        "rating": 6
+      },
+      {
+        "name": "Georgetown High School",
+        "type": "Public",
+        "grades": "9-12",
+        "distance_mi": 7.6,
+        "rating": 6
+      }
+    ],
+    "school_district": "Georgetown ISD",
+    "retail_access": "Near shopping and dining in Historic Downtown, Lake Georgetown, Blue Hole, and amenity-packed communities.",
+    "walk_score": 1,
+    "bike_score": 18
+  },
+  "sale_and_tax_history": {
+    "sale_history": [
+      {
+        "date": "2025-05-29",
+        "event": "Listed (Active)",
+        "price": 733000,
+        "mls": "6981626"
+      },
+      {
+        "date": "2025-05-24",
+        "event": "Listed (Active)",
+        "price": 733000,
+        "mls": "580945"
+      }
+    ],
+    "tax_history": [
+      {
+        "year": 2025,
+        "assessed_value": 576019,
+        "annual_tax": 9380.67
+      }
+    ]
+  },
+  "climate": {
+    "flood_factor": {
+      "risk": "Minimal",
+      "notes": "Unlikely to flood in next 30 years"
+    },
+    "fire_factor": {
+      "risk": "Major",
+      "probability": "4% chance of being in a wildfire in next 30 years"
+    },
+    "heat_factor": {
+      "risk": "Severe",
+      "current_days_above_109": 7,
+      "future_days_above_109": 21,
+      "future_years": 30
+    },
+    "wind_factor": {
+      "risk": "Major",
+      "probability": "67% chance of strong winds in next 30 years"
+    },
+    "air_factor": {
+      "risk": "Minor",
+      "unhealthy_days_current": 0,
+      "unhealthy_days_future": 1,
+      "future_years": 30
+    }
+  }
+}

@@ -1,0 +1,218 @@
+{
+    "property": {
+      "address": "1158 Welch St SW, Atlanta, GA 30310",
+      "price": 446000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "square_footage": 2045,
+      "year_built": 2023,
+      "stories": 2,
+      "lot_size_sqft": 4007,
+      "lot_size_acres": 0.092,
+      "garage_spaces": 0,
+      "parking": {
+        "type": "Detached, On Street, Parking Pad",
+        "total_spaces": 2,
+        "covered_spaces": 0
+      },
+      "floors": ["Carpet", "Ceramic Tile", "Hardwood"],
+      "floor_details": {
+        "main_level_bedrooms": 1,
+        "main_level_bathrooms": 1,
+        "main_level_kitchen": true,
+        "main_level_primary_bedroom": false
+      },
+      "kitchen": {
+        "features": [
+          "Modern black and white cabinetry",
+          "Center island",
+          "Walk-in pantry",
+          "Stone counters",
+          "View to family room"
+        ],
+        "appliances": [
+          "Stainless steel appliances",
+          "Dishwasher",
+          "Disposal",
+          "Gas Cooktop",
+          "Gas Oven",
+          "Gas Range",
+          "Microwave",
+          "Tankless Water Heater"
+        ]
+      },
+      "primary_bathroom": {
+        "features": [
+          "Oversized glass-enclosed shower",
+          "Double vanity"
+        ]
+      },
+      "primary_bedroom": {
+        "features": [
+          "Tray ceilings",
+          "Double closets",
+          "His and her walk-in closets"
+        ]
+      },
+      "laundry": {
+        "features": [
+          "Hallway laundry closet",
+          "In Hall",
+          "Upper Level"
+        ]
+      },
+      "interior_features": [
+        "Coffered ceiling",
+        "Butler’s pantry",
+        "Fireplace",
+        "Privacy fencing",
+        "Home security system",
+        "Crown Molding",
+        "Double Vanity",
+        "Entrance Foyer",
+        "High Ceilings 9 ft Main",
+        "High Speed Internet",
+        "Tray Ceiling(s)",
+        "Walk-In Closet(s)",
+        "Double Pane Windows"
+      ],
+      "exterior": {
+        "construction": ["Cedar", "Other"],
+        "roof": "Shingle",
+        "builder": "",
+        "features": [
+          "Private Yard",
+          "Rain Gutters"
+        ],
+        "patio": [
+          "Covered",
+          "Front Porch",
+          "Patio"
+        ],
+        "fencing": [],
+        "security": ["Home security system"],
+        "foundation": "Slab"
+      },
+      "yard": {
+        "features": [
+          "Back Yard",
+          "Front Yard"
+        ]
+      },
+      "community": {
+        "name": "Pittsburgh",
+        "features": [
+          "Near Beltline",
+          "Near Schools",
+          "Near Shopping",
+          "Near Trails/Greenway",
+          "Street Lights"
+        ],
+        "pool": "None"
+      },
+      "hoa": {
+        "has_hoa": false,
+        "name": "",
+        "fee": 0,
+        "fee_frequency": "",
+        "includes": []
+      },
+      "utilities": {
+        "electricity": "Electricity Available",
+        "natural_gas": "Natural Gas Available",
+        "sewer": "Public Sewer",
+        "water": "Public",
+        "heating": "Central, Forced Air",
+        "cooling": "Ceiling Fan(s), Central Air"
+      },
+      "direction_faces": "",
+      "apn": "14 008700081965",
+      "images": {
+        "exterior": [
+          "https://ssl.cdn-redfin.com/photo/82/bigphoto/789/7583789_1.jpg"
+        ],
+        "interior": [
+          "https://ssl.cdn-redfin.com/photo/82/mbphotov3/789/genMid.7583789_12_1.jpg",
+          "https://ssl.cdn-redfin.com/photo/82/mbphotov3/789/genMid.7583789_37_1.jpg",
+          "https://ssl.cdn-redfin.com/photo/82/mbphotov3/789/genMid.7583789_20_1.jpg",
+          "https://ssl.cdn-redfin.com/photo/82/mbphotov3/789/genMid.7583789_30_1.jpg",
+          "https://ssl.cdn-redfin.com/photo/82/mbphotov3/789/genMid.7583789_7_1.jpg",
+          "https://ssl.cdn-redfin.com/photo/82/mbphotov3/789/genMid.7583789_25_1.jpg"
+        ]
+      }
+    },
+    "description": "Discover the perfect blend of modern craftsmanship, location, and affordable value! Priced at $446,000, this brand-new 4 bedroom, 3.5 bath home delivers over 2,000 square feet of thoughtfully designed living space—offering exceptional features without compromising your budget. The main level is designed for flexibility and function, featuring a private guest bedroom with a full bath, ideal for hosting visitors, extended stays, or creating a quiet retreat. The dedicated bonus room with French doors makes a perfect office or study. Enjoy hosting dinner parties in the separate dining room with coffered ceiling and butler’s pantry, providing both style and storage. At the heart of the home is the chef’s kitchen, complete with modern black and white cabinetry, stainless steel appliances, a center island, and a walk-in pantry. This space flows into the family room with fireplace, creating a cozy, open-concept layout that extends outdoors to the covered porch and fenced backyard—perfect for relaxing or entertaining. Upstairs, you’ll find the owner’s suite, a true retreat with tray ceilings, double closets, and a spa-inspired bathroom featuring an oversized glass-enclosed shower, double vanity, and natural sunlight. Two additional bedrooms and a hallway laundry closet complete the upper level, adding everyday convenience. Additional features include privacy fencing and a home security system, offering peace of mind. Located near the Beltline entrance, Pittsburgh Yards, Lee + White, Mercedes-Benz Stadium, and downtown Atlanta, you’ll enjoy easy access to shopping, dining, entertainment, and more. This is an incredible opportunity to own new construction in one of Atlanta’s fastest-growing neighborhoods. Great as a primary resident as well as Buy and Hold investment property. Don’t miss out this unbeatable value and modern living in the heart of the city!",
+    "neighborhood": {
+      "schools": [
+        {
+          "name": "Gideons Elementary School",
+          "type": "Public",
+          "grades": "PreK-5",
+          "distance_mi": 0.5,
+          "rating": 4
+        },
+        {
+          "name": "Sylvan Hills Middle School",
+          "type": "Public",
+          "grades": "6-8",
+          "distance_mi": 1.0,
+          "rating": 4
+        },
+        {
+          "name": "Carver High School",
+          "type": "Public",
+          "grades": "9-12",
+          "distance_mi": 0.9,
+          "rating": 1
+        }
+      ],
+      "school_district": "Atlanta Public Schools",
+      "retail_access": "Near Beltline entrance, Pittsburgh Yards, Lee + White, Mercedes-Benz Stadium, and downtown Atlanta",
+      "walk_score": 54,
+      "bike_score": 51
+    },
+    "sale_and_tax_history": {
+      "sale_history": [
+        {
+          "date": "2025-05-21",
+          "event": "Listed (Active)",
+          "price": 446000,
+          "mls": "7583789"
+        }
+      ],
+      "tax_history": [
+        {
+          "year": 2025,
+          "assessed_value": 95400,
+          "annual_tax": 1563
+        }
+      ]
+    },
+    "climate": {
+      "flood_factor": {
+        "risk": "Minimal",
+        "notes": "Unlikely to flood in next 30 years"
+      },
+      "fire_factor": {
+        "risk": "Minimal",
+        "probability": "Unlikely to be in a wildfire in next 30 years"
+      },
+      "heat_factor": {
+        "risk": "Major",
+        "current_days_above_109": 7,
+        "future_days_above_109": 16,
+        "future_years": 30
+      },
+      "wind_factor": {
+        "risk": "Major",
+        "probability": "27% chance of strong winds in next 30 years"
+      },
+      "air_factor": {
+        "risk": "Moderate",
+        "unhealthy_days_current": 4,
+        "unhealthy_days_future": 6,
+        "future_years": 30
+      }
+    }
+  }
+  

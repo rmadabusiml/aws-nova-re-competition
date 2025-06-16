@@ -1,0 +1,187 @@
+{
+    "property": {
+      "address": "1993 Reynolds Dr SW, Atlanta, GA 30315",
+      "price": 600000,
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "square_footage": 2800,
+      "year_built": 2025,
+      "stories": 2,
+      "lot_size_sqft": 9148,
+      "lot_size_acres": 0.21,
+      "garage_spaces": 2,
+      "parking": {
+        "type": "Attached, Covered, Garage, Garage Door Opener",
+        "total_spaces": 2,
+        "covered_spaces": 2
+      },
+      "floors": ["Other"],
+      "floor_details": {
+        "main_level_bedrooms": 2,
+        "main_level_bathrooms": 2,
+        "main_level_kitchen": true,
+        "main_level_primary_bedroom": false
+      },
+      "kitchen": {
+        "features": [
+          "Quartz countertops",
+          "Soft-close kitchen cabinetry",
+          "Kitchen island",
+          "Ample natural light"
+        ],
+        "appliances": [
+          "Other"
+        ]
+      },
+      "primary_bathroom": {
+        "features": [
+          "Soaking tub",
+          "Dual vanities",
+          "Separate his-and-hers walk-in closets"
+        ]
+      },
+      "primary_bedroom": {
+        "features": [
+          "Oversized suite"
+        ]
+      },
+      "laundry": {
+        "features": [
+          "Other"
+        ]
+      },
+      "interior_features": [
+        "Soaring 10-ft ceilings",
+        "8-ft doors",
+        "Open-concept main floor",
+        "Fireplace (Electric)",
+        "Loft-style landing",
+        "No common walls"
+      ],
+      "exterior": {
+        "construction": ["Frame", "Other"],
+        "roof": "Other",
+        "builder": "",
+        "features": [
+          "Covered front porch",
+          "Rear deck",
+          "Upper-level deck",
+          "Balcony"
+        ],
+        "patio": [
+          "Deck",
+          "Covered front porch",
+          "Rear deck",
+          "Upper-level deck"
+        ],
+        "fencing": [],
+        "security": [],
+        "foundation": "Crawl Space"
+      },
+      "yard": {
+        "features": [
+          "Flat lot",
+          "Rare .40-acre lot"
+        ]
+      },
+      "community": {
+        "name": "Lakewood Heights",
+        "features": [
+          "Near Beltline",
+          "Near Schools",
+          "Near Trails/Greenway",
+          "Near Public Transport"
+        ],
+        "pool": ""
+      },
+      "hoa": {
+        "has_hoa": false,
+        "name": "",
+        "fee": 0,
+        "fee_frequency": "",
+        "includes": []
+      },
+      "utilities": {
+        "electricity": "Other",
+        "natural_gas": "",
+        "sewer": "Public Sewer",
+        "water": "Public",
+        "heating": "Central, Electric",
+        "cooling": "Central Air"
+      },
+      "direction_faces": "",
+      "apn": "14 0091 LL0556",
+      "images": {
+        "exterior": [
+          "https://ssl.cdn-redfin.com/photo/82/bigphoto/292/7585292_0.jpg"
+        ],
+        "interior": [
+          "https://ssl.cdn-redfin.com/photo/82/mbphotov3/292/genMid.7585292_9_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/82/mbphotov3/292/genMid.7585292_27_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/82/mbphotov3/292/genMid.7585292_14_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/82/mbphotov3/292/genMid.7585292_21_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/82/mbphotov3/292/genMid.7585292_5_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/82/mbphotov3/292/genMid.7585292_18_0.jpg"
+        ]
+      }
+    },
+    "description": "If you're looking for a home that feels like the one—this is it. Nestled at the end of a quiet dead-end street on a rare flat .40-acre lot, this new construction craftsman checks every box (and then builds a few more). From the moment you walk up to the welcoming front porch, you’ll know this isn’t your average home. Soaring 10-ft ceilings, 8-ft doors, and a 15-ft ceiling in the 2-car garage give you the volume, light, and space that make life feel just a little bit more elevated. Enjoy an open-concept main floor perfect for entertaining, featuring quartz countertops, soft-close kitchen cabinetry, and ample natural light. The oversized primary suite includes a luxurious soaking tub, dual vanities, and separate his-and-hers walk-in closets. Upstairs includes a versatile loft-style landing with access to a private deck shared by the hallway and a guest suite. Outdoor living is maximized with three separate decks: a covered front porch for sipping your morning coffee, a rear deck off the main living space, and an upper-level deck. Large secondary bedrooms offer plenty of room for guests or home offices. Located just minutes from Beltline access at Chosewood Park, the vibrant Lee + White food and brewery district, and downtown Atlanta. Quick access to I-75/85, I-20, and I-285. This home is the perfect blend of quiet residential living with close proximity to Atlanta’s most popular amenities.",
+    "neighborhood": {
+      "schools": [
+        {
+          "name": "Slater Elementary School",
+          "type": "Public",
+          "grades": "PreK-5",
+          "distance_mi": 1.3,
+          "rating": 3
+        },
+        {
+          "name": "Price Middle School",
+          "type": "Public",
+          "grades": "6-8",
+          "distance_mi": 0.9,
+          "rating": 2
+        },
+        {
+          "name": "Carver High School",
+          "type": "Public",
+          "grades": "9-12",
+          "distance_mi": 1.5,
+          "rating": 1
+        }
+      ],
+      "school_district": "Atlanta Public Schools",
+      "retail_access": "Minutes from Beltline access at Chosewood Park, the Lee + White food and brewery district, and downtown Atlanta.",
+      "walk_score": null,
+      "bike_score": null
+    },
+    "sale_and_tax_history": {
+      "sale_history": [
+        {
+          "date": "2025-05-30",
+          "event": "Coming Soon",
+          "price": 600000,
+          "mls": "7585292"
+        }
+      ],
+      "tax_history": []
+    },
+    "climate": {
+      "flood_factor": {
+        "risk": "Pending update"
+      },
+      "fire_factor": {
+        "risk": "Pending update"
+      },
+      "heat_factor": {
+        "risk": "Pending update"
+      },
+      "wind_factor": {
+        "risk": "Pending update"
+      },
+      "air_factor": {
+        "risk": "Pending update"
+      }
+    }
+  }
+  

@@ -1,0 +1,190 @@
+{
+    "property": {
+      "address": "4032 Trimrose Ct Lot 69, Atlanta, GA 30349",
+      "price": 515639,
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "square_footage": 2570,
+      "year_built": 2025,
+      "stories": 2,
+      "lot_size_sqft": 10890,
+      "lot_size_acres": 0.25,
+      "garage_spaces": 2,
+      "parking": {
+        "type": "Garage",
+        "total_spaces": 2,
+        "covered_spaces": 2
+      },
+      "floors": ["Carpet", "Other", "Luxury Vinyl Plank"],
+      "floor_details": {
+        "main_level_bedrooms": 2,
+        "main_level_bathrooms": 1,
+        "main_level_kitchen": true,
+        "main_level_primary_bedroom": false
+      },
+      "kitchen": {
+        "features": [
+          "Large kitchen island",
+          "Painted white cabinets",
+          "Granite countertops",
+          "Open concept",
+          "Overlooks family room with fireplace",
+          "Pantry",
+          "Walk-in pantry"
+        ],
+        "appliances": [
+          "Dishwasher",
+          "Disposal",
+          "Gas Water Heater",
+          "Microwave",
+          "Oven/Range (Combo)",
+          "Stainless Steel Appliance(s)"
+        ]
+      },
+      "primary_bathroom": {
+        "features": [
+          "Walk-in closet",
+          "Private bathroom",
+          "Walk-in shower"
+        ]
+      },
+      "primary_bedroom": {
+        "features": [
+          "Walk-in closet"
+        ]
+      },
+      "laundry": {
+        "features": [
+          "Large laundry room",
+          "Upper level",
+          "In Hall"
+        ]
+      },
+      "interior_features": [
+        "Double Vanity",
+        "High Ceilings",
+        "Walk-In Closet(s)",
+        "Open concept",
+        "Family room with fireplace",
+        "Dining Room/Living Room Combo",
+        "No Common Walls"
+      ],
+      "exterior": {
+        "construction": ["Brick", "Wood Siding"],
+        "roof": "Composition",
+        "builder": "",
+        "features": [
+          "Window Treatments"
+        ],
+        "patio": ["Patio"],
+        "fencing": [],
+        "security": [],
+        "foundation": "Slab"
+      },
+      "yard": {
+        "features": [
+          "Other"
+        ]
+      },
+      "community": {
+        "name": "Parkview Estates",
+        "features": ["Playground", "Pool", "Sidewalks", "Street Lights"],
+        "pool": "Community"
+      },
+      "hoa": {
+        "has_hoa": true,
+        "name": "",
+        "fee": 650,
+        "fee_frequency": "Annually",
+        "includes": []
+      },
+      "utilities": {
+        "electricity": "Electricity Available",
+        "natural_gas": "Natural Gas Available",
+        "sewer": "Public Sewer",
+        "water": "Public",
+        "heating": "Dual, Zoned",
+        "cooling": "Central Air, Dual, Zoned"
+      },
+      "direction_faces": "",
+      "apn": "09F400001748646",
+      "images": {
+        "exterior": [
+          "https://ssl.cdn-redfin.com/photo/81/bigphoto/773/10533773_0.jpg"
+        ],
+        "interior": [
+          "https://ssl.cdn-redfin.com/photo/81/mbphotov3/773/genMid.10533773_5_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/81/mbphotov3/773/genMid.10533773_16_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/81/mbphotov3/773/genMid.10533773_8_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/81/mbphotov3/773/genMid.10533773_13_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/81/mbphotov3/773/genMid.10533773_3_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/81/mbphotov3/773/genMid.10533773_11_0.jpg"
+        ]
+      }
+    },
+    "description": "Welcome to Parkview Estates! This newly constructed Harding floorplan on a basement offers a modern open concept with a large kitchen island overlooking the family room with fireplace. Features include painted white cabinets, granite countertops, luxury vinyl plank flooring in the main level, all bathrooms, and laundry. The large primary suite includes a walk-in closet and private bathroom with walk-in shower. The second floor has a large laundry room with convenient access to bedrooms. Community amenities include a playground, pool, sidewalks, and street lights. MOVE IN AUGUST!",
+    "neighborhood": {
+      "schools": [
+        {
+          "name": "Wolf Creek Elementary",
+          "type": "Public",
+          "grades": "PreK-5",
+          "distance_mi": 1.1,
+          "rating": 6
+        },
+        {
+          "name": "Sandtown Middle School",
+          "type": "Public",
+          "grades": "6-8",
+          "distance_mi": 3.7,
+          "rating": 6
+        },
+        {
+          "name": "Westlake High School",
+          "type": "Public",
+          "grades": "9-12",
+          "distance_mi": 3.0,
+          "rating": 5
+        }
+      ],
+      "school_district": "Fulton County",
+      "retail_access": "Near shopping, dining, and entertainment in South Fulton",
+      "walk_score": null,
+      "bike_score": null
+    },
+    "sale_and_tax_history": {
+      "sale_history": [
+        {
+          "date": "2025-05-31",
+          "event": "Listed (New)",
+          "price": 515639,
+          "mls": "10533773"
+        }
+      ],
+      "tax_history": [
+        {
+          "year": 2025,
+          "assessed_value": 420000,
+          "annual_tax": 7016
+        }
+      ]
+    },
+    "climate": {
+      "flood_factor": {
+        "risk": "Pending update"
+      },
+      "fire_factor": {
+        "risk": "Pending update"
+      },
+      "heat_factor": {
+        "risk": "Pending update"
+      },
+      "wind_factor": {
+        "risk": "Pending update"
+      },
+      "air_factor": {
+        "risk": "Pending update"
+      }
+    }
+  }
+  

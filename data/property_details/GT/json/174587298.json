@@ -1,0 +1,230 @@
+{
+    "property": {
+      "address": "632 Otto Ave, Georgetown, TX 78626",
+      "price": 390000,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "square_footage": 2067,
+      "year_built": 2021,
+      "stories": 1,
+      "lot_size_sqft": 7666,
+      "lot_size_acres": 0.176,
+      "garage_spaces": 3,
+      "parking": {
+        "type": "Attached, Garage Faces Front, Garage, Garage Door Opener",
+        "total_spaces": 3,
+        "covered_spaces": 3
+      },
+      "floors": ["Carpet", "Vinyl"],
+      "floor_details": {
+        "main_level_bedrooms": 4,
+        "main_level_bathrooms": 2,
+        "main_level_kitchen": true,
+        "main_level_primary_bedroom": true
+      },
+      "kitchen": {
+        "features": [
+          "Breakfast Bar",
+          "Granite Counters",
+          "Kitchen/Family Room Combo",
+          "Pantry",
+          "Recessed Lighting"
+        ],
+        "appliances": [
+          "Dryer",
+          "Dishwasher",
+          "Free-Standing Range",
+          "Disposal",
+          "Microwave",
+          "Refrigerator",
+          "Water Softener",
+          "Washer"
+        ]
+      },
+      "primary_bathroom": {
+        "features": [
+          "Double Vanity",
+          "Stone Counters",
+          "Walk-In Shower"
+        ]
+      },
+      "primary_bedroom": {
+        "features": ["Ceiling Fan(s)"]
+      },
+      "laundry": {
+        "features": ["Laundry Room"]
+      },
+      "interior_features": [
+        "Double Pane Windows",
+        "Window Treatments",
+        "Smart Technology",
+        "Ceiling Fan(s)",
+        "Granite Counters",
+        "High Ceilings",
+        "Main Level Primary",
+        "Open Floorplan",
+        "Pantry",
+        "Recessed Lighting",
+        "Smart Home",
+        "Walk-In Closet(s)",
+        "High Speed Internet"
+      ],
+      "exterior": {
+        "construction": ["Brick Veneer", "Frame", "Masonry", "Stone", "Stucco"],
+        "roof": "Composition",
+        "builder": "DR HORTON",
+        "features": ["Private Yard", "Rain Gutters"],
+        "patio": ["Covered", "Patio"],
+        "fencing": ["Fenced", "Privacy", "Wood"],
+        "security": ["Security System", "Smoke Detector(s)"],
+        "foundation": "Slab"
+      },
+      "yard": {
+        "features": [
+          "Fully sodded yard with irrigation",
+          "Professional landscaping",
+          "Sprinklers In Rear",
+          "Sprinklers In Front",
+          "Trees Small Size"
+        ]
+      },
+      "community": {
+        "name": "Fairhaven",
+        "features": [
+          "Common Grounds/Area",
+          "Community Mailbox",
+          "Internet Access",
+          "Playground",
+          "Park",
+          "Pool",
+          "Trails/Paths"
+        ],
+        "pool": "Community"
+      },
+      "hoa": {
+        "has_hoa": true,
+        "name": "FAIRHAVEN",
+        "fee": 60,
+        "fee_frequency": "Monthly",
+        "includes": ["Common Area Maintenance"]
+      },
+      "utilities": {
+        "electricity": "Available",
+        "natural_gas": "Available",
+        "sewer": "Municipal Utility District",
+        "water": "Municipal Utility District",
+        "heating": "Central",
+        "cooling": "Central Air"
+      },
+      "direction_faces": "East",
+      "apn": "R601073",
+      "images": {
+        "exterior": ["https://ssl.cdn-redfin.com/photo/92/bigphoto/955/8601955_0.jpg"],
+        "interior": [
+          "https://ssl.cdn-redfin.com/photo/92/mbphotov3/955/genMid.8601955_9_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/92/mbphotov3/955/genMid.8601955_27_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/92/mbphotov3/955/genMid.8601955_14_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/92/mbphotov3/955/genMid.8601955_21_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/92/mbphotov3/955/genMid.8601955_5_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/92/mbphotov3/955/genMid.8601955_18_0.jpg"
+        ]
+      }
+    },
+    "description": "Welcome to this charming single-story home nestled in the desirable Fairhaven neighborhood! This spacious 4-bedroom, 2-bath residence offers a thoughtful layout that includes a dedicated office/flex space, dining room, and inviting living area—perfect for both everyday living and entertaining. The kitchen is a dream, featuring expansive granite countertops, a gas range, built-in microwave, dishwasher, sleek tile backsplash, refrigerator, and a generously sized pantry. Enjoy peace of mind with a brand-new roof installed in May 2025! Warranty will transfer to buyer. Additional highlights include a 3-car garage, water softener system, washer, and dryer—all included. Ideally situated near major highways and toll roads, with convenient access to parks, shopping, dining, and top-rated Charter and Georgetown schools. Don’t miss this exceptional opportunity in a prime location.",
+    "neighborhood": {
+      "schools": [
+        {
+          "name": "Williams Elementary School",
+          "type": "Public",
+          "grades": "PreK-5",
+          "distance_mi": 0.6,
+          "rating": 2
+        },
+        {
+          "name": "George Wagner Middle",
+          "type": "Public",
+          "grades": "6-8",
+          "distance_mi": 2.8,
+          "rating": 2
+        },
+        {
+          "name": "East View High School",
+          "type": "Public",
+          "grades": "9-12",
+          "distance_mi": 3.1,
+          "rating": 4
+        }
+      ],
+      "school_district": "Georgetown ISD",
+      "retail_access": "Convenient access to parks, shopping, dining, and major highways/toll roads",
+      "walk_score": 0,
+      "bike_score": 22
+    },
+    "sale_and_tax_history": {
+      "sale_history": [
+        {
+          "date": "2025-05-30",
+          "event": "Listed (Active)",
+          "price": 390000,
+          "mls": "8601955"
+        },
+        {
+          "date": "2021-03-15",
+          "event": "Pending",
+          "mls": "8151673"
+        },
+        {
+          "date": "2021-03-14",
+          "event": "Price Changed",
+          "price": 341000,
+          "mls": "8151673"
+        },
+        {
+          "date": "2021-03-12",
+          "event": "Price Changed",
+          "price": 326190,
+          "mls": "8151673"
+        },
+        {
+          "date": "2021-03-10",
+          "event": "Listed (Active)",
+          "price": 321190,
+          "mls": "8151673"
+        }
+      ],
+      "tax_history": [
+        {
+          "year": 2021,
+          "assessed_value": 370724,
+          "annual_tax": 8947.74
+        }
+      ]
+    },
+    "climate": {
+      "flood_factor": {
+        "risk": "Minimal",
+        "notes": "Unlikely to flood in next 30 years"
+      },
+      "fire_factor": {
+        "risk": "Major",
+        "probability": "3% chance of being in a wildfire in next 30 years"
+      },
+      "heat_factor": {
+        "risk": "Severe",
+        "current_days_above_109": 7,
+        "future_days_above_109": 23,
+        "future_years": 30
+      },
+      "wind_factor": {
+        "risk": "Severe",
+        "probability": "80% chance of strong winds in next 30 years"
+      },
+      "air_factor": {
+        "risk": "Minor",
+        "unhealthy_days_current": 1,
+        "unhealthy_days_future": 1,
+        "future_years": 30
+      }
+    }
+  }
+  

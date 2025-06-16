@@ -1,0 +1,213 @@
+{
+    "property": {
+      "address": "7171 Linden Dr, South Fulton, GA 30349",
+      "price": 523843,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "square_footage": 3045,
+      "year_built": 2025,
+      "stories": 2,
+      "lot_size_sqft": 10890,
+      "lot_size_acres": 0.25,
+      "garage_spaces": 2,
+      "parking": {
+        "type": "Driveway, Garage, Garage Faces Front, Level Driveway",
+        "total_spaces": 2,
+        "covered_spaces": 2
+      },
+      "floors": ["Carpet", "Other"],
+      "floor_details": {
+        "main_level_bedrooms": 1,
+        "main_level_bathrooms": 1,
+        "main_level_kitchen": true,
+        "main_level_primary_bedroom": false
+      },
+      "kitchen": {
+        "features": [
+          "42-inch white cabinets",
+          "Quartz countertops",
+          "Gas cooktop",
+          "Breakfast area",
+          "Upgraded kitchen",
+          "Kitchen island",
+          "Pantry Walk-In",
+          "Solid Surface Counters",
+          "View to Family Room"
+        ],
+        "appliances": [
+          "Dishwasher",
+          "Double Oven",
+          "Electric Oven",
+          "Gas Cooktop",
+          "Gas Water Heater",
+          "Microwave",
+          "Range Hood"
+        ]
+      },
+      "primary_bathroom": {
+        "features": [
+          "Double Vanity",
+          "Separate soaking tub",
+          "Walk-in shower"
+        ]
+      },
+      "primary_bedroom": {
+        "features": [
+          "Extra sitting area",
+          "Huge walk-in closet",
+          "Oversized suite"
+        ]
+      },
+      "laundry": {
+        "features": [
+          "Large laundry room",
+          "Upper level",
+          "In Hall"
+        ]
+      },
+      "interior_features": [
+        "Center gas fireplace",
+        "Open family room",
+        "Breakfast area",
+        "Upgraded kitchen",
+        "Long front foyer",
+        "Dining room",
+        "Extended front porch",
+        "Coffered Ceiling(s)",
+        "Double Vanity",
+        "High Ceilings 9 ft Main",
+        "Permanent Attic Stairs",
+        "Smart Home",
+        "Tray Ceiling(s)",
+        "Walk-In Closet(s)",
+        "Double Pane Windows",
+        "No Common Walls"
+      ],
+      "exterior": {
+        "construction": ["Brick", "Brick Front", "Cement Siding"],
+        "roof": "Shingle",
+        "builder": "D.R. Horton Realty of Georgia Inc",
+        "features": ["Extended front porch"],
+        "patio": [],
+        "fencing": [],
+        "security": ["Carbon Monoxide Detector(s)", "Fire Alarm"],
+        "foundation": "Slab"
+      },
+      "yard": {
+        "features": []
+      },
+      "community": {
+        "name": "Butner Estates",
+        "features": [
+          "Golf",
+          "Homeowners Assoc",
+          "Near Schools",
+          "Near Trails/Greenway",
+          "Restaurant",
+          "Sidewalks",
+          "Street Lights",
+          "Tennis Court(s)",
+          "Other"
+        ],
+        "pool": "None"
+      },
+      "hoa": {
+        "has_hoa": true,
+        "name": "",
+        "fee": 795,
+        "fee_frequency": "Monthly",
+        "includes": []
+      },
+      "utilities": {
+        "electricity": "Electricity Available",
+        "natural_gas": "Natural Gas Available",
+        "sewer": "Public Sewer",
+        "water": "Public",
+        "heating": "Forced Air, Natural Gas, Zoned",
+        "cooling": "Ceiling Fan(s), Central Air, Gas"
+      },
+      "direction_faces": "",
+      "apn": "",
+      "images": {
+        "exterior": [
+          "https://ssl.cdn-redfin.com/photo/82/bigphoto/516/7582516_0.jpg"
+        ],
+        "interior": [
+          "https://ssl.cdn-redfin.com/photo/82/mbphotov3/516/genMid.7582516_7_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/82/mbphotov3/516/genMid.7582516_23_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/82/mbphotov3/516/genMid.7582516_12_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/82/mbphotov3/516/genMid.7582516_18_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/82/mbphotov3/516/genMid.7582516_4_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/82/mbphotov3/516/genMid.7582516_15_0.jpg"
+        ]
+      }
+    },
+    "description": "The beautiful home at 7171 Linden Drive is ready for you to visit at Butner Estates in South Fulton, GA! The Bellview floorplan has a lot to offer home owners in the 3,106 square feet in 4 bedrooms and 3 bathrooms, with a 2-car garage. After enjoying time on the extended front porch, step into the long front foyer area. A dining room sits at the front of the home, making the perfect space for enjoying a meal with family and friends. Continuing in to the main living area you find the open family room and kitchen. Get cozy in front of the center gas fireplace as you read a book or watch a movie. Open to the family room is the breakfast area and upgraded kitchen. The chef of the family will enjoy the 42-inch white cabinets, quartz countertops, and gas cooktop. Guest will feel welcome and comfortable in your home with the bedroom and full bathroom located on the main level. You and your guest can lounge upstairs in the large open loft area, the perfect spot for a media or game room. The large primary suite occupies the back half of the second level with an extra sitting area and huge walk-in closet. The primary bathroom doesn't disappoint with the separate quartz vanities and separate soaking tub and walk-in shower. 2 additional bedrooms, a dual vanity bathroom and the large laundry room round out the rest of the second level. Come out to explore Butner Estates and get a personal tour of 7171 Linden Drive today! Give our agents a call to schedule your appointment.",
+    "neighborhood": {
+      "schools": [
+        {
+          "name": "Cliftondale Elementary School",
+          "type": "Public",
+          "grades": "PreK-5",
+          "distance_mi": 0.4,
+          "rating": 4
+        },
+        {
+          "name": "Renaissance Middle School",
+          "type": "Public",
+          "grades": "6-8",
+          "distance_mi": 2.6,
+          "rating": 5
+        },
+        {
+          "name": "Langston Hughes High School",
+          "type": "Public",
+          "grades": "9-12",
+          "distance_mi": 2.5,
+          "rating": 3
+        }
+      ],
+      "school_district": "Fulton County",
+      "retail_access": "Near shopping, dining, and entertainment in South Fulton",
+      "walk_score": 3,
+      "bike_score": 1
+    },
+    "sale_and_tax_history": {
+      "sale_history": [
+        {
+          "date": "2025-05-19",
+          "event": "Listed (Active)",
+          "price": 523843,
+          "mls": "7582516"
+        }
+      ],
+      "tax_history": []
+    },
+    "climate": {
+      "flood_factor": {
+        "risk": "Minimal",
+        "notes": "Unlikely to flood in next 30 years"
+      },
+      "fire_factor": {
+        "risk": "Moderate",
+        "probability": "0.93% chance of being in a wildfire in next 30 years"
+      },
+      "heat_factor": {
+        "risk": "Major",
+        "current_days_above_109": 7,
+        "future_days_above_109": 18,
+        "future_years": 30
+      },
+      "wind_factor": {
+        "risk": "Major",
+        "probability": "26% chance of strong winds in next 30 years"
+      },
+      "air_factor": {
+        "risk": "Moderate",
+        "unhealthy_days_current": 4,
+        "unhealthy_days_future": 5,
+        "future_years": 30
+      }
+    }
+  }
+  

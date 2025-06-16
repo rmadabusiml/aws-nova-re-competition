@@ -1,0 +1,298 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Redfin Property Details Schema",
+  "type": "object",
+  "properties": {
+    "property": {
+      "type": "object",
+      "properties": {
+        "address": { "type": "string" },
+        "price": { "type": "number" },
+        "bedrooms": { "type": "integer" },
+        "bathrooms": { "type": "integer" },
+        "square_footage": { "type": "integer" },
+        "year_built": { "type": "integer" },
+        "stories": { "type": "integer" },
+        "lot_size_sqft": { "type": "integer" },
+        "lot_size_acres": { "type": "number" },
+        "garage_spaces": { "type": "integer" },
+        "parking": {
+          "type": "object",
+          "properties": {
+            "type": { "type": "string" },
+            "total_spaces": { "type": "integer" },
+            "covered_spaces": { "type": "integer" }
+          },
+          "required": ["type", "total_spaces", "covered_spaces"]
+        },
+        "floors": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "floor_details": {
+          "type": "object",
+          "properties": {
+            "main_level_bedrooms": { "type": "integer" },
+            "main_level_bathrooms": { "type": "integer" },
+            "main_level_kitchen": { "type": "boolean" },
+            "main_level_primary_bedroom": { "type": "boolean" }
+          }
+        },
+        "kitchen": {
+          "type": "object",
+          "properties": {
+            "features": {
+              "type": "array",
+              "items": { "type": "string" }
+            },
+            "appliances": {
+              "type": "array",
+              "items": { "type": "string" }
+            }
+          }
+        },
+        "primary_bathroom": {
+          "type": "object",
+          "properties": {
+            "features": {
+              "type": "array",
+              "items": { "type": "string" }
+            }
+          }
+        },
+        "primary_bedroom": {
+          "type": "object",
+          "properties": {
+            "features": {
+              "type": "array",
+              "items": { "type": "string" }
+            }
+          }
+        },
+        "laundry": {
+          "type": "object",
+          "properties": {
+            "features": {
+              "type": "array",
+              "items": { "type": "string" }
+            }
+          }
+        },
+        "interior_features": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "exterior": {
+          "type": "object",
+          "properties": {
+            "construction": {
+              "type": "array",
+              "items": { "type": "string" }
+            },
+            "roof": { "type": "string" },
+            "builder": { "type": "string" },
+            "features": {
+              "type": "array",
+              "items": { "type": "string" }
+            },
+            "patio": {
+              "type": "array",
+              "items": { "type": "string" }
+            },
+            "fencing": {
+              "type": "array",
+              "items": { "type": "string" }
+            },
+            "security": {
+              "type": "array",
+              "items": { "type": "string" }
+            },
+            "foundation": { "type": "string" }
+          }
+        },
+        "yard": {
+          "type": "object",
+          "properties": {
+            "features": {
+              "type": "array",
+              "items": { "type": "string" }
+            }
+          }
+        },
+        "community": {
+          "type": "object",
+          "properties": {
+            "name": { "type": "string" },
+            "features": {
+              "type": "array",
+              "items": { "type": "string" }
+            },
+            "pool": { "type": "string" }
+          }
+        },
+        "hoa": {
+          "type": "object",
+          "properties": {
+            "has_hoa": { "type": "boolean" },
+            "name": { "type": "string" },
+            "fee": { "type": "number" },
+            "fee_frequency": { "type": "string" },
+            "includes": {
+              "type": "array",
+              "items": { "type": "string" }
+            }
+          }
+        },
+        "utilities": {
+          "type": "object",
+          "properties": {
+            "electricity": { "type": "string" },
+            "natural_gas": { "type": "string" },
+            "sewer": { "type": "string" },
+            "water": { "type": "string" },
+            "heating": { "type": "string" },
+            "cooling": { "type": "string" }
+          }
+        },
+        "direction_faces": { "type": "string" },
+        "apn": { "type": "string" },
+        "images": {
+          "type": "object",
+          "properties": {
+            "exterior": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "format": "uri",
+                "pattern": "^https://ssl\\.cdn-redfin\\.com/photo/.*\\.jpg$"
+              }
+            },
+            "interior": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "format": "uri",
+                "pattern": "^https://ssl\\.cdn-redfin\\.com/photo/.*\\.jpg$"
+              }
+            }
+          },
+          "required": ["exterior", "interior"]
+        }
+      },
+      "required": [
+        "address",
+        "price",
+        "bedrooms",
+        "bathrooms",
+        "square_footage",
+        "year_built",
+        "images"
+      ]
+    },
+    "description": { "type": "string" },
+    "neighborhood": {
+      "type": "object",
+      "properties": {
+        "schools": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": { "type": "string" },
+              "type": { "type": "string" },
+              "grades": { "type": "string" },
+              "distance_mi": { "type": "number" },
+              "rating": { "type": "integer" }
+            },
+            "required": ["name", "type", "grades", "distance_mi", "rating"]
+          }
+        },
+        "school_district": { "type": "string" },
+        "retail_access": { "type": "string" },
+        "walk_score": { "type": "integer" },
+        "bike_score": { "type": "integer" }
+      }
+    },
+    "sale_and_tax_history": {
+      "type": "object",
+      "properties": {
+        "sale_history": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "date": { "type": "string", "format": "date" },
+              "event": { "type": "string" },
+              "price": { "type": ["number", "null"] },
+              "mls": { "type": "string" }
+            },
+            "required": ["date", "event"]
+          }
+        },
+        "tax_history": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "year": { "type": "integer" },
+              "assessed_value": { "type": "number" },
+              "annual_tax": { "type": "number" }
+            },
+            "required": ["year", "assessed_value", "annual_tax"]
+          }
+        }
+      }
+    },
+    "climate": {
+      "type": "object",
+      "properties": {
+        "flood_factor": {
+          "type": "object",
+          "properties": {
+            "risk": { "type": "string" },
+            "notes": { "type": "string" }
+          }
+        },
+        "fire_factor": {
+          "type": "object",
+          "properties": {
+            "risk": { "type": "string" },
+            "probability": { "type": "string" }
+          }
+        },
+        "heat_factor": {
+          "type": "object",
+          "properties": {
+            "risk": { "type": "string" },
+            "current_days_above_109": { "type": "integer" },
+            "future_days_above_109": { "type": "integer" },
+            "future_years": { "type": "integer" }
+          }
+        },
+        "wind_factor": {
+          "type": "object",
+          "properties": {
+            "risk": { "type": "string" },
+            "probability": { "type": "string" }
+          }
+        },
+        "air_factor": {
+          "type": "object",
+          "properties": {
+            "risk": { "type": "string" },
+            "unhealthy_days_current": { "type": "integer" },
+            "unhealthy_days_future": { "type": "integer" },
+            "future_years": { "type": "integer" }
+          }
+        }
+      }
+    }
+  },
+  "required": [
+    "property",
+    "description",
+    "neighborhood",
+    "sale_and_tax_history",
+    "climate"
+  ]
+}

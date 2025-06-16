@@ -1,0 +1,220 @@
+{
+    "property": {
+      "address": "7426 Shadow Wood Dr, Indianapolis, IN 46254",
+      "price": 485000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "square_footage": 2704,
+      "year_built": 1984,
+      "stories": 2,
+      "lot_size_sqft": 18295,
+      "lot_size_acres": 0.42,
+      "garage_spaces": 2,
+      "parking": {
+        "type": "Attached, Asphalt, Garage Door Opener, Guest Parking, Storage, Workshop in Garage, Courtyard Load Garage, Finished Garage",
+        "total_spaces": 2,
+        "covered_spaces": 2
+      },
+      "floors": ["Hardwood", "Carpet", "Vinyl"],
+      "floor_details": {
+        "main_level_bedrooms": 1,
+        "main_level_bathrooms": 1.5,
+        "main_level_kitchen": true,
+        "main_level_primary_bedroom": true
+      },
+      "kitchen": {
+        "features": [
+          "Hardwood Floors",
+          "Pantry",
+          "Screens Complete",
+          "Skylight(s)",
+          "Walk-in Closet(s)",
+          "Wet Bar",
+          "Window Bay Bow",
+          "Windows Wood",
+          "Wood Work Stained"
+        ],
+        "appliances": [
+          "Dishwasher",
+          "Dryer",
+          "Disposal",
+          "Gas Water Heater",
+          "Kitchen Exhaust",
+          "Laundry Connection in Unit",
+          "Gas Oven",
+          "Range Hood",
+          "Refrigerator",
+          "Washer"
+        ]
+      },
+      "primary_bathroom": {
+        "features": [
+          "Shower Stall Full",
+          "Sinks Double"
+        ]
+      },
+      "primary_bedroom": {
+        "features": [
+          "Closet Walk in"
+        ]
+      },
+      "laundry": {
+        "features": [
+          "Connections All",
+          "Laundry Room",
+          "Main Level"
+        ]
+      },
+      "interior_features": [
+        "Attic Access",
+        "Cathedral Ceiling(s)",
+        "Vaulted Ceiling(s)",
+        "Hardwood Floors",
+        "Pantry",
+        "Screens Complete",
+        "Skylight(s)",
+        "Walk-in Closet(s)",
+        "Wet Bar",
+        "Window Bay Bow",
+        "Windows Wood",
+        "Wood Work Stained",
+        "Bath Jack-n-Jill",
+        "Great Room - 2 Story",
+        "Laundry in Unit",
+        "Utility Room",
+        "Fireplace",
+        "Gas Log",
+        "Masonry"
+      ],
+      "exterior": {
+        "construction": ["Brick", "Cedar"],
+        "roof": "Unknown",
+        "builder": "",
+        "features": [
+          "Deck Main Level",
+          "Open Patio",
+          "Porch Open",
+          "Curbs",
+          "Sidewalks",
+          "Storm Sewer",
+          "Street Lights",
+          "Suburb",
+          "Mature Trees",
+          "Wooded"
+        ],
+        "patio": ["Deck", "Open Patio", "Porch Open"],
+        "fencing": [],
+        "security": [
+          "Security Alarm Monitored",
+          "Smoke Alarm"
+        ],
+        "foundation": "Block"
+      },
+      "yard": {
+        "features": [
+          "Low-maintenance gardens",
+          "Mature trees"
+        ]
+      },
+      "community": {
+        "name": "Eagle Creek Woods",
+        "features": [],
+        "pool": ""
+      },
+      "hoa": {
+        "has_hoa": false,
+        "name": "",
+        "fee": 0,
+        "fee_frequency": "",
+        "includes": []
+      },
+      "utilities": {
+        "electricity": "Electricity Connected, 200+ Amp Service",
+        "natural_gas": "Natural Gas",
+        "sewer": "Municipal Sewer Connected",
+        "water": "Municipal/City",
+        "heating": "Dual, Forced Air, Natural Gas",
+        "cooling": ""
+      },
+      "direction_faces": "South",
+      "apn": "490510116024000600",
+      "images": {
+        "exterior": [
+          "https://ssl.cdn-redfin.com/photo/147/bigphoto/031/22042031_0.jpg"
+        ],
+        "interior": [
+          "https://ssl.cdn-redfin.com/photo/147/mbphotov3/031/genMid.22042031_17_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/147/mbphotov3/031/genMid.22042031_51_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/147/mbphotov3/031/genMid.22042031_27_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/147/mbphotov3/031/genMid.22042031_41_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/147/mbphotov3/031/genMid.22042031_10_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/147/mbphotov3/031/genMid.22042031_34_0.jpg"
+        ]
+      }
+    },
+    "description": "Eagle Creek Woods is a hidden gem, nestled among mature, low-maintenance gardens and a canopy of trees that evoke a sense of respite. This updated contemporary home features cathedral and vaulted ceilings, abundant windows, a floor-to-ceiling fireplace, decorative balusters, and a wet bar in the family room adjoining the great room—perfect for entertaining. The main floor owner's suite offers a walk-in closet and double-sink bathroom. Upstairs, a bonus room provides flexible space for a home gym, office, or guest suite. Nearly every square foot has been carefully updated, including a new roof, HVAC, and freshly black-topped driveway. Enjoy the lush grounds and inviting patios, all just steps from Eagle Creek Park and the marina.",
+    "neighborhood": {
+      "schools": [
+        {
+          "name": "Deer Run Elementary School",
+          "type": "Public",
+          "grades": "K-5",
+          "distance_mi": 1.2,
+          "rating": 3
+        },
+        {
+          "name": "Guion Creek Middle School",
+          "type": "Public",
+          "grades": "6-8",
+          "distance_mi": 3.0,
+          "rating": 3
+        },
+        {
+          "name": "Pike High School",
+          "type": "Public",
+          "grades": "9-12",
+          "distance_mi": 2.8,
+          "rating": 3
+        }
+      ],
+      "school_district": "MSD Pike Township",
+      "retail_access": "Near Eagle Creek Park, marina/boatyard, and city amenities.",
+      "walk_score": null,
+      "bike_score": null
+    },
+    "sale_and_tax_history": {
+      "sale_history": [
+        {
+          "date": "2025-05-31",
+          "event": "Listed (Active)",
+          "price": 485000,
+          "mls": "22042031"
+        },
+        {
+          "date": "2007-03-28",
+          "event": "Listed",
+          "price": 279900,
+          "mls": "2719060"
+        }
+      ],
+      "tax_history": []
+    },
+    "climate": {
+      "flood_factor": {
+        "risk": "Pending update"
+      },
+      "fire_factor": {
+        "risk": "Pending update"
+      },
+      "heat_factor": {
+        "risk": "Pending update"
+      },
+      "wind_factor": {
+        "risk": "Pending update"
+      },
+      "air_factor": {
+        "risk": "Pending update"
+      }
+    }
+  }
+  

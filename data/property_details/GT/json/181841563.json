@@ -1,0 +1,244 @@
+{
+  "property": {
+    "address": "232 Stone Canyon Dr, Georgetown, TX 78628",
+    "price": 495000,
+    "bedrooms": 5,
+    "bathrooms": 2.5,
+    "square_footage": 2797,
+    "year_built": 2021,
+    "stories": 2,
+    "lot_size_sqft": 4800,
+    "lot_size_acres": 0.1102,
+    "garage_spaces": 2,
+    "parking": {
+      "type": "Driveway, Garage Faces Front, Garage",
+      "total_spaces": 4,
+      "covered_spaces": 2
+    },
+    "floors": ["Carpet", "Tile", "Vinyl"],
+    "floor_details": {
+      "main_level_bedrooms": 1,
+      "main_level_bathrooms": 1,
+      "main_level_kitchen": true,
+      "main_level_primary_bedroom": true
+    },
+    "kitchen": {
+      "features": [
+        "Breakfast Bar",
+        "Breakfast Area",
+        "Dining Area",
+        "Eat-in Kitchen",
+        "Kitchen Island",
+        "Kitchen/Family Room Combo",
+        "Pantry",
+        "Recessed Lighting",
+        "Granite Counters",
+        "Open Floorplan"
+      ],
+      "appliances": [
+        "Dishwasher",
+        "Electric Water Heater",
+        "Disposal",
+        "Gas Range",
+        "Microwave",
+        "Oven",
+        "Water Softener",
+        "Trash Compactor"
+      ]
+    },
+    "primary_bathroom": {
+      "features": [
+        "Double Vanity",
+        "En Suite Bathroom",
+        "Walk-In Closet(s)",
+        "Walk-In Shower",
+        "Bath in Primary Bedroom"
+      ]
+    },
+    "primary_bedroom": {
+      "features": [
+        "Double Vanity",
+        "En Suite Bathroom",
+        "Walk-In Closet(s)",
+        "Walk-In Shower"
+      ]
+    },
+    "laundry": {
+      "features": [
+        "Laundry Room",
+        "Washer Hookup",
+        "Electric Dryer Hookup"
+      ]
+    },
+    "interior_features": [
+      "Breakfast Bar",
+      "Ceiling Fan(s)",
+      "Double Vanity",
+      "Eat-in Kitchen",
+      "Granite Counters",
+      "High Ceilings",
+      "Kitchen Island",
+      "Multiple Living Areas",
+      "Main Level Primary",
+      "Open Floorplan",
+      "Pantry",
+      "Recessed Lighting",
+      "Walk-In Closet(s)",
+      "Screen(s)",
+      "Electric Dryer Hookup",
+      "Washer Hookup"
+    ],
+    "exterior": {
+      "construction": ["Brick Veneer", "HardiPlank Type", "Masonry", "Stone"],
+      "roof": "Composition, Shingle",
+      "builder": "",
+      "features": ["Rain Gutters", "Solar Panel(s)"],
+      "patio": ["Rear Porch"],
+      "fencing": ["Fenced", "Full", "Wood"],
+      "security": ["Fire Alarm", "Smoke Detector(s)", "Controlled Access"],
+      "foundation": "Slab"
+    },
+    "yard": {
+      "features": [
+        "Back Yard",
+        "Landscaped",
+        "Level",
+        "Many Trees",
+        "Sprinklers Automatic",
+        "Trees Small Size"
+      ]
+    },
+    "community": {
+      "name": "MorningStar",
+      "features": [
+        "Common Grounds/Area",
+        "Clubhouse",
+        "Curbs",
+        "Dog Park",
+        "Playground",
+        "Park",
+        "Picnic Area",
+        "Pool",
+        "Sidewalks",
+        "Trails/Paths",
+        "Controlled Access"
+      ],
+      "pool": "Community"
+    },
+    "hoa": {
+      "has_hoa": true,
+      "name": "Goodwin + Co.",
+      "fee": 55,
+      "fee_frequency": "Monthly",
+      "includes": ["Common Area Maintenance"]
+    },
+    "utilities": {
+      "electricity": "Electricity Available",
+      "natural_gas": "",
+      "sewer": "Public Sewer",
+      "water": "Municipal Utility District (MUD), Public",
+      "heating": "Central",
+      "cooling": "Central Air, Ceiling Fan(s)"
+    },
+    "direction_faces": "West",
+    "apn": "153330034S0016",
+    "images": {
+      "exterior": [
+        "https://ssl.cdn-redfin.com/photo/92/bigphoto/013/3039013_0.jpg"
+      ],
+      "interior": [
+        "https://ssl.cdn-redfin.com/photo/92/mbphotov3/013/genMid.3039013_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/mbphotov3/013/genMid.3039013_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/mbphotov3/013/genMid.3039013_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/mbphotov3/013/genMid.3039013_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/mbphotov3/013/genMid.3039013_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/mbphotov3/013/genMid.3039013_20_0.jpg"
+      ]
+    }
+  },
+  "description": "Fantastic opportunity to own a beautifully maintained, energy-efficient home in the highly desirable MorningStar community of Georgetown! Built in 2021 and gently lived in, this almost-new 5-bedroom, 2.5-bathroom residence features an open and versatile floorplan ideal for both everyday living and entertaining. The primary suite and an additional bedroom are conveniently located on the main level—perfect for guests, a home office, or multi-generational living—while upstairs you'll find four more spacious bedrooms and a flexible loft space ideal as a game room, second living area, or playroom. The heart of the home is the bright and airy open-concept kitchen, dining, and living area with high ceilings, abundant natural light, and modern finishes. The kitchen opens directly to the living space and features a large island with ample prep space, perfect for gathering with friends and family. The oversized primary suite includes a luxurious bathroom and generous walk-in closet. Step outside to a peaceful backyard oasis with no neighbors behind, elegant stone pavers, solar lighting, and a covered patio with epoxy flooring—ideal for BBQs or quiet evenings under the stars. The attached garage is equipped with epoxy floors, shelving, and an EV charging outlet, while a water softener and Ring camera system add comfort and peace of mind. Located just moments from one of MorningStar’s resort-style pools and surrounded by community amenities like walking trails, a dog park, sports fields, playgrounds, and regular neighborhood events, this fantastic home offers the perfect balance of lifestyle, comfort, and location. Don't miss your chance to call this move-in-ready gem your own!",
+  "neighborhood": {
+    "schools": [
+      {
+        "name": "Santa Rita Elementary School",
+        "type": "Public",
+        "grades": "PK-5",
+        "distance_mi": 2.4,
+        "rating": 7
+      },
+      {
+        "name": "Santa Rita Middle",
+        "type": "Public",
+        "grades": "6-8",
+        "distance_mi": 1.5,
+        "rating": 7
+      },
+      {
+        "name": "Liberty Hill High School",
+        "type": "Public",
+        "grades": "9-12",
+        "distance_mi": 8.9,
+        "rating": 7
+      }
+    ],
+    "school_district": "Liberty Hill ISD",
+    "retail_access": "Near shopping and dining in Historic Downtown, Lake Georgetown, Blue Hole, and amenity-packed communities.",
+    "walk_score": 0,
+    "bike_score": 23
+  },
+  "sale_and_tax_history": {
+    "sale_history": [
+      {
+        "date": "2025-05-30",
+        "event": "Listed (Active)",
+        "price": 495000,
+        "mls": "3039013"
+      },
+      {
+        "date": "2025-03-19",
+        "event": "Price Changed",
+        "price": 515000,
+        "mls": "8141962"
+      },
+      {
+        "date": "2024-12-03",
+        "event": "Listed (Active)",
+        "price": 525000,
+        "mls": "8141962"
+      }
+    ],
+    "tax_history": [
+      {
+        "year": 2023,
+        "assessed_value": 477325,
+        "annual_tax": 12146
+      }
+    ]
+  },
+  "climate": {
+    "flood_factor": {
+      "risk": "Minimal",
+      "notes": "Unlikely to flood in next 30 years"
+    },
+    "fire_factor": {
+      "risk": "Major",
+      "probability": "5% chance of being in a wildfire in next 30 years"
+    },
+    "heat_factor": {
+      "risk": "Severe",
+      "current_days_above_109": 7,
+      "future_days_above_109": 23,
+      "future_years": 30
+    },
+    "wind_factor": {
+      "risk": "Major",
+      "probability": "62% chance of strong winds in next 30 years"
+    },
+    "air_factor": {
+      "risk": "Minor",
+      "unhealthy_days_current": 0,
+      "unhealthy_days_future": 1,
+      "future_years": 30
+    }
+  }
+}

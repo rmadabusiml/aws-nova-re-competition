@@ -1,0 +1,202 @@
+{
+    "property": {
+      "address": "10515 Sugar Ridge Way, Indianapolis, IN 46239",
+      "price": 415000,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "square_footage": 3112,
+      "year_built": 2012,
+      "stories": 2,
+      "lot_size_sqft": 9670,
+      "lot_size_acres": 0.222,
+      "garage_spaces": 2,
+      "parking": {
+        "type": "Attached",
+        "total_spaces": 2,
+        "covered_spaces": 2
+      },
+      "floors": ["Carpet", "Laminate Hardwood"],
+      "floor_details": {
+        "main_level_bedrooms": 1,
+        "main_level_bathrooms": 1,
+        "main_level_kitchen": true,
+        "main_level_primary_bedroom": false
+      },
+      "kitchen": {
+        "features": [
+          "Quartz Countertops",
+          "Double Oven",
+          "Refrigerator",
+          "Dishwasher"
+        ],
+        "appliances": [
+          "Electric Cooktop",
+          "Dishwasher",
+          "Dryer",
+          "Disposal",
+          "Gas Water Heater",
+          "MicroHood",
+          "Double Oven",
+          "Refrigerator",
+          "Washer",
+          "Water Softener Rented"
+        ]
+      },
+      "primary_bathroom": {
+        "features": [
+          "Double Vanity",
+          "Shower Stall Full",
+          "Sinks Double",
+          "Suite",
+          "Tub Garden"
+        ]
+      },
+      "primary_bedroom": {
+        "features": [
+          "Walk-In Closet"
+        ]
+      },
+      "laundry": {
+        "features": [
+          "Laundry Room",
+          "Upper Level"
+        ]
+      },
+      "interior_features": [
+        "Attic Access",
+        "Breakfast Bar",
+        "Tray Ceiling(s)",
+        "Eat-in Kitchen",
+        "Pantry",
+        "Walk-in Closet(s)"
+      ],
+      "exterior": {
+        "construction": ["Vinyl With Stone"],
+        "roof": "Composition",
+        "builder": "",
+        "features": ["Covered Porch", "Tennis Community"],
+        "patio": ["Covered Porch"],
+        "fencing": [],
+        "security": [],
+        "foundation": "Slab"
+      },
+      "yard": {
+        "features": []
+      },
+      "community": {
+        "name": "Wolf Run",
+        "features": ["Tennis Community"],
+        "pool": "Community"
+      },
+      "hoa": {
+        "has_hoa": true,
+        "name": "",
+        "fee": 605,
+        "fee_frequency": "Annually",
+        "includes": ["Clubhouse", "Entrance Common", "ParkPlayground", "Pool"]
+      },
+      "utilities": {
+        "electricity": "Electricity Connected",
+        "natural_gas": "",
+        "sewer": "Municipal Sewer Connected",
+        "water": "Municipal/City",
+        "heating": "Forced Air",
+        "cooling": ""
+      },
+      "direction_faces": "",
+      "apn": "490933113029000300",
+      "images": {
+        "exterior": [
+          "https://ssl.cdn-redfin.com/photo/147/bigphoto/019/22042019_0.jpg"
+        ],
+        "interior": [
+          "https://ssl.cdn-redfin.com/photo/147/mbphotov3/019/genMid.22042019_13_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/147/mbphotov3/019/genMid.22042019_39_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/147/mbphotov3/019/genMid.22042019_20_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/147/mbphotov3/019/genMid.22042019_31_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/147/mbphotov3/019/genMid.22042019_7_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/147/mbphotov3/019/genMid.22042019_26_0.jpg"
+        ]
+      }
+    },
+    "description": "Welcome to 10515 Sugar Ridge Way. This home features four bedrooms, and two full bathrooms on the second floor. An optional fifth bedroom in on the main floor that is currently being used as an office. The main floor also offers two living spaces that are waiting for you to make them your own. The spacious kitchen allows for plenty of space to cook and entertain. The stunning quartz countertops were installed last year. A few more updates are the roof is less than two years old, as well as the water heater. The washer and dryer stay with the property, and are a year old. This home is in prime location in the community. It's one of the closest house to the pool, and is close to the walking trails connected to Wolf Run Park. This home is in pristine condition, and is ready for you to come have a look. Come and see it today!",
+    "neighborhood": {
+      "schools": [
+        {
+          "name": "Acton Elementary School",
+          "type": "Public",
+          "grades": "K-3",
+          "distance_mi": 3.3,
+          "rating": 5
+        },
+        {
+          "name": "Franklin Central Junior High",
+          "type": "Public",
+          "grades": "7-8",
+          "distance_mi": 1.7,
+          "rating": 6
+        },
+        {
+          "name": "Franklin Central High School",
+          "type": "Public",
+          "grades": "9-12",
+          "distance_mi": 2.4,
+          "rating": 7
+        }
+      ],
+      "school_district": "Franklin Township Com Sch Corp",
+      "retail_access": "Near shopping and dining in Historic Downtown, Lake Georgetown, Blue Hole, and amenity-packed communities.",
+      "walk_score": null,
+      "bike_score": null
+    },
+    "sale_and_tax_history": {
+      "sale_history": [
+        {
+          "date": "2025-05-30",
+          "event": "Listed (Active)",
+          "price": 415000,
+          "mls": "22042019"
+        },
+        {
+          "date": "2016-07-07",
+          "event": "Sold (MLS)",
+          "price": 242000,
+          "mls": "21413364"
+        }
+      ],
+      "tax_history": [
+        {
+          "year": 2024,
+          "assessed_value": 323400,
+          "annual_tax": 2864
+        }
+      ]
+    },
+    "climate": {
+      "flood_factor": {
+        "risk": "Minimal",
+        "notes": "Unlikely to flood in next 30 years"
+      },
+      "fire_factor": {
+        "risk": "Minimal",
+        "probability": "Unlikely to be in a wildfire in next 30 years"
+      },
+      "heat_factor": {
+        "risk": "Moderate",
+        "current_days_above_109": 7,
+        "future_days_above_109": 20,
+        "future_years": 30
+      },
+      "wind_factor": {
+        "risk": "Minor",
+        "probability": "1% chance of strong winds in next 30 years"
+      },
+      "air_factor": {
+        "risk": "Minor",
+        "unhealthy_days_current": 1,
+        "unhealthy_days_future": 2,
+        "future_years": 30
+      }
+    }
+  }
+  

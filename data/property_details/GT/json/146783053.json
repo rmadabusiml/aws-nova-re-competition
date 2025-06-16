@@ -1,0 +1,213 @@
+{
+  "property": {
+    "address": "116 Waterloo Cv, Georgetown, TX 78628",
+    "price": 570000,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "square_footage": 2494,
+    "year_built": 2018,
+    "stories": 1,
+    "lot_size_sqft": 8319,
+    "lot_size_acres": 0.191,
+    "garage_spaces": 3,
+    "parking": {
+      "type": "Attached, Door-Multi, Driveway, Garage Faces Front, Garage, Garage Door Opener",
+      "total_spaces": 5,
+      "covered_spaces": 3
+    },
+    "floors": ["Carpet", "Tile"],
+    "floor_details": {
+      "main_level_bedrooms": 3,
+      "main_level_bathrooms": 3,
+      "main_level_kitchen": true,
+      "main_level_primary_bedroom": true
+    },
+    "kitchen": {
+      "features": [
+        "Breakfast Bar",
+        "Breakfast Area",
+        "Galley Kitchen",
+        "Kitchen Island",
+        "Kitchen/Family Room Combo",
+        "Pantry",
+        "Quartz Counters",
+        "Recessed Lighting"
+      ],
+      "appliances": [
+        "Built-In Electric Oven",
+        "Dishwasher",
+        "Electric Cooktop",
+        "Electric Water Heater",
+        "Disposal",
+        "Stainless Steel Appliance(s)"
+      ]
+    },
+    "primary_bathroom": {
+      "features": [
+        "Double Vanity",
+        "En Suite Bathroom",
+        "Garden Tub/Roman Tub",
+        "Separate Shower",
+        "Walk-In Shower"
+      ]
+    },
+    "primary_bedroom": {
+      "features": [
+        "Ceiling Fan(s)",
+        "Walk-In Closet(s)"
+      ]
+    },
+    "laundry": {
+      "features": [
+        "Laundry Room"
+      ]
+    },
+    "interior_features": [
+      "Breakfast Bar",
+      "Ceiling Fan(s)",
+      "Separate/Formal Dining Room",
+      "Double Vanity",
+      "Entrance Foyer",
+      "High Ceilings",
+      "Kitchen Island",
+      "Multiple Dining Areas",
+      "Main Level Primary",
+      "No Interior Steps",
+      "Pantry",
+      "Quartz Counters",
+      "Recessed Lighting",
+      "Walk-In Closet(s)",
+      "Blinds",
+      "Bay Window(s)",
+      "Screen(s)",
+      "Fireplace"
+    ],
+    "exterior": {
+      "construction": ["Brick", "Wood Siding"],
+      "roof": "Composition, Shingle",
+      "builder": "",
+      "features": ["Rain Gutters"],
+      "patio": ["Patio"],
+      "fencing": ["Fenced", "Privacy"],
+      "security": ["Security System Owned", "Carbon Monoxide Detector(s)", "Smoke Detector(s)"],
+      "foundation": "Slab"
+    },
+    "yard": {
+      "features": [
+        "Back Yard",
+        "Interior Lot",
+        "Landscaped",
+        "Sprinklers Automatic",
+        "Sprinklers In Ground",
+        "Trees Small Size"
+      ]
+    },
+    "community": {
+      "name": "",
+      "features": ["Street Lights", "Sidewalks", "Curbs"],
+      "pool": ""
+    },
+    "hoa": {
+      "has_hoa": true,
+      "name": "FirstService Residential",
+      "fee": 400,
+      "fee_frequency": "Annually",
+      "includes": ["Common Area Maintenance"]
+    },
+    "utilities": {
+      "electricity": "Electricity Available",
+      "natural_gas": "",
+      "sewer": "Public Sewer, Municipal Utility District",
+      "water": "Public, Municipal Utility District",
+      "heating": "Central, Electric",
+      "cooling": "Central Air, Electric"
+    },
+    "direction_faces": "Southeast",
+    "apn": "R567768",
+    "images": {
+      "exterior": [
+        "https://ssl.cdn-redfin.com/photo/92/bigphoto/490/7186490_0.jpg"
+      ],
+      "interior": [
+        "https://ssl.cdn-redfin.com/photo/92/mbphotov3/490/genMid.7186490_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/mbphotov3/490/genMid.7186490_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/mbphotov3/490/genMid.7186490_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/mbphotov3/490/genMid.7186490_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/mbphotov3/490/genMid.7186490_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/mbphotov3/490/genMid.7186490_14_0.jpg"
+      ]
+    }
+  },
+  "description": "This thoughtfully designed 3-bedroom, 3-bath residence offers an open floor plan that’s ideal for both everyday living and entertaining. With wood-look tile flooring, soaring 10'-12' ceilings, and a cozy fireplace, every detail is made to feel both stylish and inviting. The kitchen features 42\" white cabinets, quartz countertops, stainless steel appliances, built-in oven and microwave, walk-in pantry, and a bar area perfect for hosting. The spacious primary suite includes a bay window, large walk-in closet, and ensuite bath with dual vanities, garden tub, and separate shower. Step outside to a backyard retreat with a recently added 750 sq ft deck and a dedicated dog run. Additional features include a 3-car tandem garage, recessed lighting, wood blinds, and custom trim. Located in a vibrant HOA community with amenities like a resort-style pool, nature trails, playground, and open green spaces.",
+  "neighborhood": {
+    "schools": [
+      {
+        "name": "Santa Rita Middle",
+        "type": "Public",
+        "grades": "6-8",
+        "distance_mi": 3.2,
+        "rating": 6
+      },
+      {
+        "name": "Liberty Hill High School",
+        "type": "Public",
+        "grades": "9-12",
+        "distance_mi": 10.9,
+        "rating": 7
+      }
+    ],
+    "school_district": "Liberty Hill ISD",
+    "retail_access": "Near shopping and dining in Historic Downtown, Lake Georgetown, Blue Hole, and amenity-packed communities.",
+    "walk_score": 0,
+    "bike_score": 25
+  },
+  "sale_and_tax_history": {
+    "sale_history": [
+      {
+        "date": "2025-05-30",
+        "event": "Listed (Active)",
+        "price": 570000,
+        "mls": "7186490"
+      },
+      {
+        "date": "2021-06-22",
+        "event": "Sold (Public Records)",
+        "price": null,
+        "mls": null
+      }
+    ],
+    "tax_history": [
+      {
+        "year": 2025,
+        "assessed_value": 515629,
+        "annual_tax": 12456
+      }
+    ]
+  },
+  "climate": {
+    "flood_factor": {
+      "risk": "Minimal",
+      "notes": "Unlikely to flood in next 30 years"
+    },
+    "fire_factor": {
+      "risk": "Major",
+      "probability": "3% chance of being in a wildfire in next 30 years"
+    },
+    "heat_factor": {
+      "risk": "Severe",
+      "current_days_above_109": 7,
+      "future_days_above_109": 24,
+      "future_years": 30
+    },
+    "wind_factor": {
+      "risk": "Major",
+      "probability": "70% chance of strong winds in next 30 years"
+    },
+    "air_factor": {
+      "risk": "Minor",
+      "unhealthy_days_current": 1,
+      "unhealthy_days_future": 1,
+      "future_years": 30
+    }
+  }
+}

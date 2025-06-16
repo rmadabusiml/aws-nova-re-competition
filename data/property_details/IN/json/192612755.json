@@ -1,0 +1,210 @@
+{
+    "property": {
+      "address": "19 E Regent St, Indianapolis, IN 46225",
+      "price": 475000,
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "square_footage": 3807,
+      "year_built": 1890,
+      "stories": 2,
+      "lot_size_sqft": 3663,
+      "lot_size_acres": 0.08,
+      "garage_spaces": 1,
+      "parking": {
+        "type": "Detached",
+        "total_spaces": 1,
+        "covered_spaces": 1
+      },
+      "floors": ["Parquet", "Vinyl Plank", "Other"],
+      "floor_details": {
+        "main_level_bedrooms": 1,
+        "main_level_bathrooms": 1,
+        "main_level_kitchen": true,
+        "main_level_primary_bedroom": false
+      },
+      "kitchen": {
+        "features": [
+          "Vinyl Plank Flooring"
+        ],
+        "appliances": [
+          "Gas Cooktop",
+          "Dishwasher",
+          "Dryer",
+          "Electric Water Heater",
+          "ENERGY STAR Qualified Appliances",
+          "Disposal",
+          "Oven",
+          "Refrigerator",
+          "Washer"
+        ]
+      },
+      "primary_bathroom": {
+        "features": [
+          "Shower Stall Full",
+          "Tub Garden"
+        ]
+      },
+      "primary_bedroom": {
+        "features": [
+          "Walk-in Closet"
+        ]
+      },
+      "laundry": {
+        "features": [
+          "Laundry Room",
+          "Upper Level",
+          "In Basement"
+        ]
+      },
+      "interior_features": [
+        "Attic Access",
+        "Attic Stairway",
+        "Built In Book Shelves",
+        "Eat-in Kitchen",
+        "Screens Some",
+        "Walk-in Closet(s)",
+        "Windows Vinyl",
+        "Grand Staircase",
+        "Soaring Ceilings",
+        "Natural Light",
+        "Finished Basement",
+        "Dual Laundry Units",
+        "Two Story Deck"
+      ],
+      "exterior": {
+        "construction": ["Cement Siding"],
+        "roof": "Unknown",
+        "builder": "",
+        "features": [
+          "Balcony",
+          "Porch Open"
+        ],
+        "patio": ["Porch Open", "Balcony"],
+        "fencing": ["Fence Full Rear", "Privacy", "Front Yard", "Perimeter", "Wrought Iron"],
+        "security": [],
+        "foundation": "Brick"
+      },
+      "yard": {
+        "features": [
+          "Double Corner Lot"
+        ]
+      },
+      "community": {
+        "name": "Old Southside",
+        "features": [],
+        "pool": ""
+      },
+      "hoa": {
+        "has_hoa": false,
+        "name": "",
+        "fee": 0,
+        "fee_frequency": "",
+        "includes": []
+      },
+      "utilities": {
+        "electricity": "Electricity Connected",
+        "natural_gas": "",
+        "sewer": "Municipal Sewer Connected",
+        "water": "Municipal/City",
+        "heating": "Forced Air, Natural Gas",
+        "cooling": ""
+      },
+      "direction_faces": "",
+      "apn": "491113126002000101",
+      "images": {
+        "exterior": [
+          "https://ssl.cdn-redfin.com/photo/147/bigphoto/656/22039656_0.jpg"
+        ],
+        "interior": [
+          "https://ssl.cdn-redfin.com/photo/147/mbphotov3/656/genMid.22039656_14_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/147/mbphotov3/656/genMid.22039656_42_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/147/mbphotov3/656/genMid.22039656_22_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/147/mbphotov3/656/genMid.22039656_33_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/147/mbphotov3/656/genMid.22039656_8_0.jpg",
+          "https://ssl.cdn-redfin.com/photo/147/mbphotov3/656/genMid.22039656_28_0.jpg"
+        ]
+      }
+    },
+    "description": "Welcome home! This stunning 4 bed, 3.5 bath double corner lot home located in the booming Old Southside has been thoughtfully remodeled down to the studs and is ready for you to call home. Just 5 minutes south of downtown Indianapolis and a quick hop to Garfield Park, you are minutes from everything Indy has to offer. Walk in and you are instantly greeted with a grand staircase, soaring ceilings, and endless natural light. The parquet floors in your front living space mixed with the original extra large pocket door gives you all of the originality of this 1900's home mixed with modern updates. With approximately 3,500 of finished square footage AND a partially finished attic ready for final touches, this home has no shortage of room to spread out. A fully finished basement with both indoor and separate outdoor access, dual laundry units, and a two story deck for skyline views - this gem is one you have to see in person!",
+    "neighborhood": {
+      "schools": [
+        {
+          "name": "Daniel Webster School 46",
+          "type": "Public",
+          "grades": "PreK-8",
+          "distance_mi": 1.8,
+          "rating": 3
+        },
+        {
+          "name": "Center for Inquiry School 2",
+          "type": "Public",
+          "grades": "K-8",
+          "distance_mi": 2.7,
+          "rating": 5
+        },
+        {
+          "name": "George Washington Community High School",
+          "type": "Public",
+          "grades": "9-12",
+          "distance_mi": 2.9,
+          "rating": 1
+        },
+        {
+          "name": "Arsenal Technical High School",
+          "type": "Public",
+          "grades": "9-12",
+          "distance_mi": 3.0,
+          "rating": 1
+        },
+        {
+          "name": "Crispus Attucks Medical Magnet High School",
+          "type": "Public",
+          "grades": "9-12",
+          "distance_mi": 3.2,
+          "rating": 1
+        }
+      ],
+      "school_district": "Indianapolis Public Schools",
+      "retail_access": "Minutes from downtown Indianapolis, Garfield Park, and city amenities.",
+      "walk_score": 37,
+      "bike_score": 43
+    },
+    "sale_and_tax_history": {
+      "sale_history": [
+        {
+          "date": "2025-05-30",
+          "event": "Listed (Active)",
+          "price": 475000,
+          "mls": "22039656"
+        }
+      ],
+      "tax_history": []
+    },
+    "climate": {
+      "flood_factor": {
+        "risk": "Minimal",
+        "notes": "Unlikely to flood in next 30 years"
+      },
+      "fire_factor": {
+        "risk": "Minimal",
+        "probability": "Unlikely to be in a wildfire in next 30 years"
+      },
+      "heat_factor": {
+        "risk": "Moderate",
+        "current_days_above_109": 7,
+        "future_days_above_109": 19,
+        "future_years": 30
+      },
+      "wind_factor": {
+        "risk": "Minor",
+        "probability": "0% chance of strong winds in next 30 years"
+      },
+      "air_factor": {
+        "risk": "Moderate",
+        "unhealthy_days_current": 2,
+        "unhealthy_days_future": 3,
+        "future_years": 30
+      }
+    }
+  }
+  

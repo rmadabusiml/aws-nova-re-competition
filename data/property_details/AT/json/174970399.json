@@ -1,0 +1,199 @@
+{
+    "property": {
+      "address": "629 Windsor St SW, Atlanta, GA 30312",
+      "price": 499000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "square_footage": 2200,
+      "year_built": 2020,
+      "stories": 2,
+      "lot_size_sqft": 3311,
+      "lot_size_acres": 0.076,
+      "garage_spaces": 0,
+      "parking": {
+        "type": "Off street, None",
+        "total_spaces": 2,
+        "covered_spaces": 0
+      },
+      "floors": ["Carpet", "Ceramic Tile", "Hardwood"],
+      "floor_details": {
+        "main_level_bedrooms": 1,
+        "main_level_bathrooms": 1,
+        "main_level_kitchen": true,
+        "main_level_primary_bedroom": false
+      },
+      "kitchen": {
+        "features": [
+          "Other Surface Counters",
+          "Eat-in Kitchen",
+          "Kitchen Island"
+        ],
+        "appliances": [
+          "Dishwasher",
+          "Disposal",
+          "Electric Range",
+          "Microwave"
+        ]
+      },
+      "primary_bathroom": {
+        "features": [
+          "Double Vanity"
+        ]
+      },
+      "primary_bedroom": {
+        "features": [
+          "Master on Main"
+        ]
+      },
+      "laundry": {
+        "features": [
+          "Laundry Room"
+        ]
+      },
+      "interior_features": [
+        "Walk-In Closet(s)",
+        "Open Concept Dining Room",
+        "No Common Walls"
+      ],
+      "exterior": {
+        "construction": ["Vinyl Siding"],
+        "roof": "Shingle",
+        "builder": "",
+        "features": ["Other"],
+        "patio": ["Front Porch"],
+        "fencing": [],
+        "security": ["Smoke Detector(s)"],
+        "foundation": "Slab"
+      },
+      "yard": {
+        "features": []
+      },
+      "community": {
+        "name": "Mechanicsville",
+        "features": [],
+        "pool": "None"
+      },
+      "hoa": {
+        "has_hoa": false,
+        "name": "",
+        "fee": 0,
+        "fee_frequency": "",
+        "includes": []
+      },
+      "utilities": {
+        "electricity": "Electricity Available, 110 Volts, 220 Volts",
+        "natural_gas": "",
+        "sewer": "Public Sewer",
+        "water": "Public",
+        "heating": "Electric",
+        "cooling": "Ceiling Fan(s), Central Air"
+      },
+      "direction_faces": "",
+      "apn": "14 008600031953",
+      "images": {
+        "exterior": [
+          "https://ssl.cdn-redfin.com/photo/82/bigphoto/326/7581326_2.jpg"
+        ],
+        "interior": [
+          "https://ssl.cdn-redfin.com/photo/82/mbphotov3/326/genMid.7581326_3_2.jpg",
+          "https://ssl.cdn-redfin.com/photo/82/mbphotov3/326/genMid.7581326_11_2.jpg",
+          "https://ssl.cdn-redfin.com/photo/82/mbphotov3/326/genMid.7581326_6_2.jpg",
+          "https://ssl.cdn-redfin.com/photo/82/mbphotov3/326/genMid.7581326_9_2.jpg",
+          "https://ssl.cdn-redfin.com/photo/82/mbphotov3/326/genMid.7581326_2_2.jpg",
+          "https://ssl.cdn-redfin.com/photo/82/mbphotov3/326/genMid.7581326_7_2.jpg"
+        ]
+      }
+    },
+    "description": "4 bedroom, 3.5 bath home with 2,200 sq ft of modern living space. Spacious living room with great flooring, fully equipped kitchen with beautiful countertops and lots of storage space. The porch offers a lovely spot to relax. Washer and dryer hookups included. Off street parking. Located near Rose Burney Park, restaurants, shopping, and more, with easy access to I-85.",
+    "neighborhood": {
+      "schools": [
+        {
+          "name": "Dunbar Elementary School",
+          "type": "Public",
+          "grades": "PreK-5",
+          "distance_mi": 0.3,
+          "rating": 3
+        },
+        {
+          "name": "King Middle School",
+          "type": "Public",
+          "grades": "6-8",
+          "distance_mi": 1.1,
+          "rating": 3
+        },
+        {
+          "name": "Maynard H. Jackson- Jr. High School",
+          "type": "Public",
+          "grades": "9-12",
+          "distance_mi": 2.1,
+          "rating": 4
+        }
+      ],
+      "school_district": "Atlanta Public Schools",
+      "retail_access": "Located near Rose Burney Park, restaurants, shopping, and more, with easy access to I-85.",
+      "walk_score": 68,
+      "bike_score": 57
+    },
+    "sale_and_tax_history": {
+      "sale_history": [
+        {
+          "date": "2025-05-19",
+          "event": "Coming Soon",
+          "price": 499000,
+          "mls": "7581326"
+        },
+        {
+          "date": "2022-12-05",
+          "event": "Listed For Sale",
+          "price": 499000,
+          "mls": "7150418"
+        },
+        {
+          "date": "2022-01-09",
+          "event": "PriceChange",
+          "price": 485000,
+          "mls": "7150418"
+        },
+        {
+          "date": "2022-03-09",
+          "event": "Sold",
+          "price": 429900,
+          "mls": "9060951"
+        }
+      ],
+      "tax_history": [
+        {
+          "year": 2024,
+          "assessed_value": 426400,
+          "annual_tax": 6983
+        }
+      ]
+    },
+    "climate": {
+      "flood_factor": {
+        "risk": "Minimal",
+        "notes": "Unlikely to flood in next 30 years"
+      },
+      "fire_factor": {
+        "risk": "Minimal",
+        "probability": "Unlikely to be in a wildfire in next 30 years"
+      },
+      "heat_factor": {
+        "risk": "Major",
+        "current_days_above_109": 7,
+        "future_days_above_109": 18,
+        "future_years": 30
+      },
+      "wind_factor": {
+        "risk": "Moderate",
+        "probability": "22% chance of strong winds in next 30 years"
+      },
+      "air_factor": {
+        "risk": "Moderate",
+        "unhealthy_days_current": 4,
+        "unhealthy_days_future": 6,
+        "future_years": 30
+      }
+    }
+  }
+  

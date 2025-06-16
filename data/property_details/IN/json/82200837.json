@@ -1,0 +1,232 @@
+{
+  "property": {
+    "address": "7141 Ember Ct, Indianapolis, IN 46236",
+    "price": 625000,
+    "bedrooms": 5,
+    "bathrooms": 3.5,
+    "square_footage": 3682,
+    "year_built": 1996,
+    "stories": 2,
+    "lot_size_sqft": 16988,
+    "lot_size_acres": 0.39,
+    "garage_spaces": 3,
+    "parking": {
+      "type": "Attached",
+      "total_spaces": 3,
+      "covered_spaces": 3
+    },
+    "floors": ["Carpet", "Hardwood"],
+    "floor_details": {
+      "main_level_bedrooms": 1,
+      "main_level_bathrooms": 1,
+      "main_level_kitchen": true,
+      "main_level_primary_bedroom": false
+    },
+    "kitchen": {
+      "features": [
+        "Hardwood Floors",
+        "Eat-in Kitchen",
+        "Pantry"
+      ],
+      "appliances": [
+        "Electric Cooktop",
+        "Dishwasher",
+        "Dryer",
+        "Disposal",
+        "Gas Water Heater",
+        "Microwave",
+        "Electric Oven",
+        "Refrigerator",
+        "Washer",
+        "Water Heater",
+        "Water Softener Owned"
+      ]
+    },
+    "primary_bathroom": {
+      "features": [
+        "Shower Stall Full",
+        "Double Vanity"
+      ]
+    },
+    "primary_bedroom": {
+      "features": [
+        "Closet Walk in"
+      ]
+    },
+    "laundry": {
+      "features": [
+        "Laundry Room",
+        "Main Level"
+      ]
+    },
+    "interior_features": [
+      "Attic Access",
+      "Attic Pull Down Stairs",
+      "Cathedral Ceiling(s)",
+      "Tray Ceiling(s)",
+      "Hardwood Floors",
+      "Eat-in Kitchen",
+      "Pantry",
+      "Screens Complete",
+      "Supplemental Storage",
+      "Walk-in Closet(s)",
+      "Windows Wood",
+      "WoodWorkStain/Painted",
+      "Living Room - 2 Story",
+      "Utility Room",
+      "Fireplace",
+      "Gas Log Fireplace"
+    ],
+    "exterior": {
+      "construction": ["Brick", "Wood Siding"],
+      "roof": "Composition",
+      "builder": "",
+      "features": [
+        "Covered Patio",
+        "Covered Porch",
+        "Deck Main Level",
+        "Screened Patio",
+        "Gas Grill",
+        "Sprinkler System",
+        "Tennis Community"
+      ],
+      "patio": [
+        "Covered Patio",
+        "Covered Porch",
+        "Deck",
+        "Screened Patio"
+      ],
+      "fencing": [],
+      "security": [],
+      "foundation": "Concrete Perimeter"
+    },
+    "yard": {
+      "features": [
+        "Sprawling backyard",
+        "Tranquil creek",
+        "Low-maintenance gardens",
+        "Mature trees"
+      ]
+    },
+    "community": {
+      "name": "Fox Point",
+      "features": [
+        "Pool",
+        "Playground",
+        "Sports Courts",
+        "Clubhouse",
+        "Tennis Community",
+        "Pickleball Court(s)",
+        "Walking Trails",
+        "Snow Removal",
+        "Park"
+      ],
+      "pool": "Community"
+    },
+    "hoa": {
+      "has_hoa": true,
+      "name": "",
+      "fee": 125,
+      "fee_frequency": "Quarterly",
+      "includes": [
+        "Clubhouse",
+        "Entrance Common",
+        "Maintenance",
+        "ParkPlayground",
+        "Snow Removal",
+        "Tennis Court(s)",
+        "Walking Trails"
+      ]
+    },
+    "utilities": {
+      "electricity": "Electricity Connected, Cable Available, Cable Connected",
+      "natural_gas": "",
+      "sewer": "Municipal Sewer Connected",
+      "water": "Municipal/City",
+      "heating": "Natural Gas",
+      "cooling": ""
+    },
+    "direction_faces": "",
+    "apn": "490129113027000407",
+    "images": {
+      "exterior": [
+        "https://ssl.cdn-redfin.com/photo/147/bigphoto/234/22041234_0.jpg"
+      ],
+      "interior": [
+        "https://ssl.cdn-redfin.com/photo/147/mbphotov3/234/genMid.22041234_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/147/mbphotov3/234/genMid.22041234_36_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/147/mbphotov3/234/genMid.22041234_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/147/mbphotov3/234/genMid.22041234_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/147/mbphotov3/234/genMid.22041234_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/147/mbphotov3/234/genMid.22041234_24_0.jpg"
+      ]
+    }
+  },
+  "description": "Welcome to your dream home in the highly sought-after Fox Point community! Step into the grand two-story entryway, flooded with natural light, setting the tone for the elegance and comfort throughout. This spacious residence features five bedrooms and three and a half baths, offering plenty of room for family and guests. The kitchen is a chef's delight-perfect for hosting large gatherings-and seamlessly flows into the inviting great room with a cozy fireplace. Just off the kitchen, enjoy the sun-drenched porch overlooking the sprawling backyard and tranquil creek, ideal for morning coffee or evening relaxation. The vaulted ceilings in the primary bedroom allow relaxation and space, along with a walk in closet and ensuite bath. Three bedrooms and a full bath complete the second story. The finished basement is an entertainer's dream, offering ample space for recreation and relaxation. Outside, the incredible yard provides both beauty and privacy, and is just a short walk to the neighborhood pool, playground, and sports courts. This is more than a home-it's a lifestyle. Don't miss this rare opportunity to live in Fox Point!",
+  "neighborhood": {
+    "schools": [
+      {
+        "name": "Sunnyside Elementary School",
+        "type": "Public",
+        "grades": "K-6",
+        "distance_mi": 0.8,
+        "rating": 5
+      },
+      {
+        "name": "Fall Creek Valley Middle School",
+        "type": "Public",
+        "grades": "7-8",
+        "distance_mi": 1.4,
+        "rating": 4
+      },
+      {
+        "name": "Lawrence North High School",
+        "type": "Public",
+        "grades": "9-12",
+        "distance_mi": 3.0,
+        "rating": 4
+      }
+    ],
+    "school_district": "MSD Lawrence Township",
+    "retail_access": "Near Eagle Creek Park, marina/boatyard, and city amenities.",
+    "walk_score": 3,
+    "bike_score": 18
+  },
+  "sale_and_tax_history": {
+    "sale_history": [
+      {
+        "date": "2025-05-29",
+        "event": "Listed (Active)",
+        "price": 625000,
+        "mls": "22041234"
+      }
+    ],
+    "tax_history": []
+  },
+  "climate": {
+    "flood_factor": {
+      "risk": "Minimal",
+      "notes": "Unlikely to flood in next 30 years"
+    },
+    "fire_factor": {
+      "risk": "Minimal",
+      "probability": "Unlikely to be in a wildfire in next 30 years"
+    },
+    "heat_factor": {
+      "risk": "Moderate",
+      "current_days_above_109": 7,
+      "future_days_above_109": 18,
+      "future_years": 30
+    },
+    "wind_factor": {
+      "risk": "Minor",
+      "probability": "0% chance of strong winds in next 30 years"
+    },
+    "air_factor": {
+      "risk": "Moderate",
+      "unhealthy_days_current": 2,
+      "unhealthy_days_future": 3,
+      "future_years": 30
+    }
+  }
+}
